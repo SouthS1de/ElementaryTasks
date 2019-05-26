@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrianglesSort", "D:\SoftSer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess", "D:\SoftServe\Chess\Chess\Chess.csproj", "{0C049326-0EDB-4C27-B96F-070346FAFB43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnvelopeAnalysis", "EnvelopeAnalysis\EnvelopeAnalysis.csproj", "{504E6E19-CE78-451C-B7A6-74CE2CF05D4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuckyTickets", "LuckyTickets\LuckyTickets.csproj", "{AFC2A7B9-CC4B-4898-A350-F491C0AB705A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{0C049326-0EDB-4C27-B96F-070346FAFB43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C049326-0EDB-4C27-B96F-070346FAFB43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C049326-0EDB-4C27-B96F-070346FAFB43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{504E6E19-CE78-451C-B7A6-74CE2CF05D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504E6E19-CE78-451C-B7A6-74CE2CF05D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504E6E19-CE78-451C-B7A6-74CE2CF05D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504E6E19-CE78-451C-B7A6-74CE2CF05D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFC2A7B9-CC4B-4898-A350-F491C0AB705A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC2A7B9-CC4B-4898-A350-F491C0AB705A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC2A7B9-CC4B-4898-A350-F491C0AB705A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC2A7B9-CC4B-4898-A350-F491C0AB705A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

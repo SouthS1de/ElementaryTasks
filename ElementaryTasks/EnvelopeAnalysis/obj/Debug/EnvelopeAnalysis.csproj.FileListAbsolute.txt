@@ -1,0 +1,7 @@
+J:\GitHub\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\bin\Debug\EnvelopeAnalysis.exe.config
+J:\GitHub\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\bin\Debug\EnvelopeAnalysis.exe
+J:\GitHub\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\bin\Debug\EnvelopeAnalysis.pdb
+J:\GitHub\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.csprojAssemblyReference.cache
+J:\GitHub\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.csproj.CoreCompileInputs.cache
+J:\GitHub\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.exe
+J:\GitHub\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.pdb
