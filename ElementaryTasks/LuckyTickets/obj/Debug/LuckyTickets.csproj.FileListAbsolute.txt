@@ -1,0 +1,7 @@
+J:\GitHub\ElementaryTasks\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.csprojAssemblyReference.cache
+J:\GitHub\ElementaryTasks\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.csproj.CoreCompileInputs.cache
+J:\GitHub\ElementaryTasks\ElementaryTasks\LuckyTickets\bin\Debug\LuckyTickets.exe.config
+J:\GitHub\ElementaryTasks\ElementaryTasks\LuckyTickets\bin\Debug\LuckyTickets.exe
+J:\GitHub\ElementaryTasks\ElementaryTasks\LuckyTickets\bin\Debug\LuckyTickets.pdb
+J:\GitHub\ElementaryTasks\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.exe
+J:\GitHub\ElementaryTasks\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.pdb
