@@ -15,18 +15,6 @@ namespace LuckyTickets
 
         #endregion
 
-        #region Indxor
-
-        public Ticket this[int index]
-        {
-            get
-            {
-                return _ticketsList[index];
-            }
-        }
-
-        #endregion
-
         #region Methods
 
         public void Add(params Ticket[] tickets)

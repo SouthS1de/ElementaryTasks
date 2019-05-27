@@ -5,3 +5,10 @@ J:\GitHub\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAna
 J:\GitHub\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.csproj.CoreCompileInputs.cache
 J:\GitHub\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.exe
 J:\GitHub\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.pdb
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\bin\Debug\EnvelopeAnalysis.exe.config
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\bin\Debug\EnvelopeAnalysis.exe
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\bin\Debug\EnvelopeAnalysis.pdb
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.csprojAssemblyReference.cache
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.csproj.CoreCompileInputs.cache
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.exe
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.pdb

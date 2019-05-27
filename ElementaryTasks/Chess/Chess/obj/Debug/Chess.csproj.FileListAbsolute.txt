@@ -43,3 +43,10 @@ J:\GitHub\Elementary-Tasks\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.c
 J:\GitHub\Elementary-Tasks\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
 J:\GitHub\Elementary-Tasks\Chess\Chess\obj\Debug\Chess.exe
 J:\GitHub\Elementary-Tasks\Chess\Chess\obj\Debug\Chess.pdb
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\Chess\Chess\bin\Debug\Chess.exe.config
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\Chess\Chess\bin\Debug\Chess.exe
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\Chess\Chess\bin\Debug\Chess.pdb
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\Chess\Chess\obj\Debug\Chess.exe
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\Chess\Chess\obj\Debug\Chess.pdb

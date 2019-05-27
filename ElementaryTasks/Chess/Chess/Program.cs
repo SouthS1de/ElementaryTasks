@@ -10,20 +10,30 @@ namespace Chess
     {
         static void Main(string[] args)
         {
-            try
+            bool isError = false;
+
+            do
             {
-                DoAlgorithm();
-            }
-            catch(ArgumentException e)
-            {
-                Console.WriteLine(e.Message);
-                Console.ReadLine();
-            }
-            catch (FormatException e)
-            {
-                Console.WriteLine(e.Message);
-                Console.ReadLine();
-            }
+                try
+                {
+                    isError = false;
+                    DoAlgorithm();
+                }
+                catch(ArgumentException e)
+                {
+                    Console.WriteLine(e.Message);
+                    Console.ReadLine();
+                    Console.Clear();
+                    isError = true;
+                }
+                catch (FormatException e)
+                {
+                    Console.WriteLine(e.Message);
+                    Console.ReadLine();
+                    Console.Clear();
+                    isError = true;
+                }
+            } while (isError);
         }
 
         #region Method
