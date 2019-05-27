@@ -17,7 +17,7 @@ namespace LuckyTickets
                 throw new ArgumentException("Ticket must have 6 numbers in itself!");
             foreach (char ch in number.ToCharArray())
             {
-                if (int.TryParse(ch.ToString(), out int num))
+                if (int.TryParse(ch.ToString(), out int num))//TODO: MAYBE return List<int>
                     result = true;
                 else
                     throw new FormatException("Format of numbers exception!");
