@@ -9,7 +9,6 @@ namespace LuckyTickets
     public class Ticket: IMoskow, IPiter
     {
         #region Prop
-
         public char[] Number { get; set; }       
 
         #endregion

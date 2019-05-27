@@ -12,12 +12,12 @@ namespace LuckyTickets
         static void Main(string[] args)
         {
             string path = "ticketsList1.txt";
-            TicketsCollection myTicketsList = new TicketsCollection();
 
             Console.WriteLine("Input type of lucky tickets to count (Moskow / Piter):");
             try
             {
                 string typeOfLuckyTickets = Validator.IsValidLuckyTicketsType(Console.ReadLine().ToUpper());
+                TicketsCollection myTicketsList = new TicketsCollection();
 
                 using (StreamReader sr = new StreamReader(path))
                 {
