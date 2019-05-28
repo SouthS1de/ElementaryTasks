@@ -13,25 +13,9 @@ namespace LuckyTickets
         {
             string path = "ticketsList1.txt";
 
-            Console.WriteLine("Input type of lucky tickets to count (Moskow / Piter):");
             try
             {
-                string typeOfLuckyTickets = Validator.IsValidLuckyTicketsType(Console.ReadLine().ToUpper());
-                TicketsCollection myTicketsList = new TicketsCollection();
-
-                using (StreamReader sr = new StreamReader(path))
-                {
-                    string buffer = sr.ReadLine();
-                    while (buffer != null)
-                    {
-                        if (Validator.IsValidNumber(buffer))                        
-                            myTicketsList.Add(new Ticket(buffer.ToCharArray()));
-                                               
-                        buffer = sr.ReadLine();
-                    }
-                }
-                Console.Clear();
-                UI.Display(CountOfLuckyTickets(myTicketsList, typeOfLuckyTickets), typeOfLuckyTickets);
+                Run(path);
             }
             catch (ArgumentException e)
             {
@@ -46,6 +30,28 @@ namespace LuckyTickets
         }
 
         #region Method
+
+        public static void Run(string path)
+        {
+            Console.WriteLine("Input type of lucky tickets to count (Moskow / Piter):");
+
+            string typeOfLuckyTickets = Validator.IsValidLuckyTicketsType(Console.ReadLine().ToUpper());
+            TicketsCollection myTicketsList = new TicketsCollection();
+
+            using (StreamReader sr = new StreamReader(path))
+            {
+                string buffer = sr.ReadLine();
+                while (buffer != null)
+                {
+                    if (Validator.IsValidNumber(buffer))
+                        myTicketsList.Add(new Ticket(buffer.ToCharArray()));
+
+                    buffer = sr.ReadLine();
+                }
+            }
+            Console.Clear();
+            UI.Display(CountOfLuckyTickets(myTicketsList, typeOfLuckyTickets), typeOfLuckyTickets);
+        }
 
         public static int CountOfLuckyTickets(TicketsCollection ticketsList, string type)
         {

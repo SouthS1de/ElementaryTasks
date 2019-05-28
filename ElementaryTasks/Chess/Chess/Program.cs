@@ -15,7 +15,7 @@ namespace Chess
 
             try
             {
-                DoAlgorithm(args);
+                Run(args);
             }
             catch(ArgumentException e)
             {
@@ -32,7 +32,7 @@ namespace Chess
 
         #region Method
 
-        public static void DoAlgorithm(string[] myArgs)
+        public static void Run(string[] myArgs)
         {
             int myRows = 0;
             int myColomns = 0;
