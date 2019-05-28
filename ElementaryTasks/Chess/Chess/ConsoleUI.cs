@@ -30,7 +30,9 @@ namespace Chess
                 }
                 Console.Write("\n");
             }
+
             Console.ResetColor();
+            Console.ReadLine();
         }
     }
 }

@@ -10,63 +10,37 @@ namespace Chess
     {
         static void Main(string[] args)
         {
-            bool isError = false;
+            string helpMessage = "USE FORMAT: <rows> <colomns>";
+            Console.WriteLine(helpMessage);
 
-            do
+            try
             {
-                try
-                {
-                    isError = false;
-                    DoAlgorithm();
-                }
-                catch(ArgumentException e)
-                {
-                    Console.WriteLine(e.Message);
-                    Console.ReadLine();
-                    Console.Clear();
-                    isError = true;
-                }
-                catch (FormatException e)
-                {
-                    Console.WriteLine(e.Message);
-                    Console.ReadLine();
-                    Console.Clear();
-                    isError = true;
-                }
-            } while (isError);
+                DoAlgorithm(args);
+            }
+            catch(ArgumentException e)
+            {
+                Console.WriteLine(e.Message);
+                Console.ReadLine();
+            }
+            catch (FormatException e)
+            {
+                Console.WriteLine(e.Message);
+                Console.WriteLine(helpMessage);
+                Console.ReadLine();
+            }
         }
 
         #region Method
 
-        public static void DoAlgorithm()
+        public static void DoAlgorithm(string[] myArgs)
         {
-            string questionMessage = "Wanna draw another board?\n(say 'Y' or 'YES' to do it, or any other key to don't)";
-            string inputMessage = "Please input the arguments of the board: ";
-            string helpMessage = "FORMAT: <rows> <colomns>";
-            bool doesCompleteCicle = false;
             int myRows = 0;
             int myColomns = 0;
-
-            do
+            if (Validator.IsValidArgs(myArgs, ref myRows, ref myColomns))
             {
-                Console.WriteLine($"{inputMessage}\n{helpMessage}");
-                string[] myArgs = Console.ReadLine().Split(' ');
-                if (Validator.IsValidArgs(myArgs, ref myRows, ref myColomns))
-                {
-                    Board myBoard = new Board(myRows, myColomns);
-                    ConsoleUI.BuildUI(myBoard);
-                }
-
-                Console.WriteLine(questionMessage);
-                string userAnswer = Console.ReadLine().ToUpper().Trim();
-                if (userAnswer == "Y" || userAnswer == "YES")
-                {
-                    doesCompleteCicle = true;
-                    Console.Clear();
-                }
-                else
-                    doesCompleteCicle = false;
-            } while (doesCompleteCicle);
+                Board myBoard = new Board(myRows, myColomns);
+                ConsoleUI.BuildUI(myBoard);
+            }            
         }
 
         #endregion
