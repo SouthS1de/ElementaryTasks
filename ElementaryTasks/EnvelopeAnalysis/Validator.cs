@@ -8,13 +8,13 @@ namespace EnvelopeAnalysis
 {
     public static class Validator
     {
-        #region Methods
+        #region Method
         
-        public static bool IsValidSide(string side, out double validatedSide)
-        {
+        public static bool IsValidSide(string side, out double validatedSide)//Correct bool
+        {//TODO: OR bool OR Exception
             bool result = false;
 
-            if (double.TryParse(side, out validatedSide))
+            if (double.TryParse(side, out validatedSide))//TODO: TryParse to UI Metod InputDoubleSide
                 result = true;
             else
                 throw new FormatException("Unsuccessful format of the side inputting!");

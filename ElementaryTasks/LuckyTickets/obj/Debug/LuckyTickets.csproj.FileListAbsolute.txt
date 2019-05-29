@@ -12,3 +12,10 @@ D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTic
 D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.csproj.CoreCompileInputs.cache
 D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.exe
 D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.pdb
+D:\Git\ElementaryTasks\ElementaryTasks\LuckyTickets\bin\Debug\LuckyTickets.exe.config
+D:\Git\ElementaryTasks\ElementaryTasks\LuckyTickets\bin\Debug\LuckyTickets.exe
+D:\Git\ElementaryTasks\ElementaryTasks\LuckyTickets\bin\Debug\LuckyTickets.pdb
+D:\Git\ElementaryTasks\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.csprojAssemblyReference.cache
+D:\Git\ElementaryTasks\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.csproj.CoreCompileInputs.cache
+D:\Git\ElementaryTasks\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.exe
+D:\Git\ElementaryTasks\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.pdb

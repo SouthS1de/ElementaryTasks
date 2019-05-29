@@ -10,10 +10,6 @@ namespace EnvelopeAnalysis
     {
         static void Main(string[] args)
         {
-            double firstWidth = 0;
-            double firstHeight = 0;
-            double secondWidth = 0;
-            double secondHeight = 0;
             string questionMessage = "Wanna compare another envelopes?\n(say 'Y' or 'YES' to do it, or any other key to don't)";
             bool doesCompleteCicle = false;
 
@@ -21,6 +17,11 @@ namespace EnvelopeAnalysis
             {
                 do
                 {
+                    double firstWidth = 0;
+                    double firstHeight = 0;
+                    double secondWidth = 0;
+                    double secondHeight = 0;
+
                     ReadFromConsole(ref firstWidth, ref firstHeight, ref secondWidth, ref secondHeight);
                     Envelope firstEnvelope = new Envelope(firstWidth, firstHeight);
                     Envelope secondEnvelope = new Envelope(secondWidth, secondHeight);
@@ -53,10 +54,10 @@ namespace EnvelopeAnalysis
         #region Method
 
         public static void ReadFromConsole(ref double firstWidth, ref double firstHeight, ref double secondWidth, ref double secondHeight)
-        {
+        {//TODO: bool, out
             Console.WriteLine("Input width of the first envelope:");
             
-            if (Validator.IsValidSide(Console.ReadLine(), out firstWidth))
+            if (Validator.IsValidSide(Console.ReadLine(), out firstWidth))//TODO: do while try parse
             {
                 Console.WriteLine("Input height of the first envelope:");
                 if (Validator.IsValidSide(Console.ReadLine(), out firstHeight))

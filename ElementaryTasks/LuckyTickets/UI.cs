@@ -11,7 +11,7 @@ namespace LuckyTickets
         public static void Display(int countOfLuckyTickets, string type)
         {
             Console.WriteLine($"Type of lucky tickets: {type}");
-            Console.WriteLine($"Count of lucky tickets: {countOfLuckyTickets} ");
+            Console.WriteLine($"Count of lucky tickets: {countOfLuckyTickets}");
         }
     }
 }

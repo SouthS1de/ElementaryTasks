@@ -10,10 +10,10 @@ namespace EnvelopeAnalysis
     {
         #region Method
         
-        public static void Display(Envelope firstEnvelope, Envelope secondEnvelope)
+        public static void Display(Envelope firstEnvelope, Envelope secondEnvelope)//TODO: result of compare
         {
             bool doesFirstInSecond = firstEnvelope.DoesPutIn(secondEnvelope);
-            bool doesSecondInFirst = secondEnvelope.DoesPutIn(firstEnvelope);
+            bool doesSecondInFirst = secondEnvelope.DoesPutIn(firstEnvelope);//TODO: beauty switch
 
             if (doesFirstInSecond)
                 Console.WriteLine("Second envelope can be put in the first envelope.");

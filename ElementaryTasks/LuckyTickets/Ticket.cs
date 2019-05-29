@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace LuckyTickets
 {
-    public class Ticket: IMoskow, IPiter
+    public class Ticket: IMoskow, IPiter//TODO: pattern strategy, correct interfaces
     {
         #region Prop
+        //TODO:indexator, length
         public char[] Number { get; set; }       
 
         #endregion

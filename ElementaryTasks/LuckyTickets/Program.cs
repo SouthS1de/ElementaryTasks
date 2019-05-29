@@ -33,7 +33,7 @@ namespace LuckyTickets
 
         public static void Run(string path)
         {
-            Console.WriteLine("Input type of lucky tickets to count (Moskow / Piter):");
+            Console.WriteLine("Input type of lucky tickets to count (Moskow / Piter):");//TODO: type in txt
 
             string typeOfLuckyTickets = Validator.IsValidLuckyTicketsType(Console.ReadLine().ToUpper());
             TicketsCollection myTicketsList = new TicketsCollection();
