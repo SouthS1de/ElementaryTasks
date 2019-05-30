@@ -7,7 +7,7 @@ using System.Collections;
 
 namespace LuckyTickets
 {
-    public class TicketsCollection: IEnumerable<Ticket>//Show lucky tickets(mb 10s)
+    public class TicketsCollection
     {
         #region Prvt Field
 
@@ -25,14 +25,17 @@ namespace LuckyTickets
             }
         }
 
-        public IEnumerator<Ticket> GetEnumerator()
+        public int CountOfLuckyTickets()
         {
-            return _ticketsList.GetEnumerator();
-        }
+            int counter = 0;
 
-        IEnumerator IEnumerable.GetEnumerator()
-        {
-            return _ticketsList.GetEnumerator();
+            foreach (Ticket ticket in _ticketsList)
+            {
+                if (ticket.IsLucky())
+                    counter++;
+            }
+
+            return counter;
         }
 
         #endregion

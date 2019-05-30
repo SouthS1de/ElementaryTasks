@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess", "Chess\Chess\Chess.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrianglesSort", "TrianglesSort\TrianglesSort\TrianglesSort.csproj", "{635B4380-12A5-4614-ACDF-D64EE952DD21}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NaturalAndFibonacciNums", "NaturalAndFibonacciNums\NaturalAndFibonacciNums.csproj", "{4DB8A1CD-556F-4E1B-B36B-86A690743B34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToString", "NumberToString\NumberToString.csproj", "{C5688904-AD2B-48BF-971D-E0081AFFEDDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{635B4380-12A5-4614-ACDF-D64EE952DD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{635B4380-12A5-4614-ACDF-D64EE952DD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{635B4380-12A5-4614-ACDF-D64EE952DD21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DB8A1CD-556F-4E1B-B36B-86A690743B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB8A1CD-556F-4E1B-B36B-86A690743B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB8A1CD-556F-4E1B-B36B-86A690743B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB8A1CD-556F-4E1B-B36B-86A690743B34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5688904-AD2B-48BF-971D-E0081AFFEDDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5688904-AD2B-48BF-971D-E0081AFFEDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5688904-AD2B-48BF-971D-E0081AFFEDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5688904-AD2B-48BF-971D-E0081AFFEDDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

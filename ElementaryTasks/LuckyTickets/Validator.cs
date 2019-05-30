@@ -8,33 +8,21 @@ namespace LuckyTickets
 {
     public static class Validator
     {
-        public static bool IsValidNumber(string number)
+        public static List<int> ValidateNumberAndReturnList(string numbers)
         {
-            bool result = false;
-            if (number.ToCharArray().Length == 6)
-                result = true;
-            else
+            List<int> ticketNumbers = new List<int>();
+            int number = 0;
+            if (!(numbers.Length == 6))//TODO: compare with max lenght
                 throw new ArgumentException("Ticket must have 6 numbers in itself!");
-            foreach (char ch in number.ToCharArray())
+            foreach (char ch in numbers)
             {
-                if (int.TryParse(ch.ToString(), out int num))//TODO: MAYBE return List<int>
-                    result = true;
-                else
+                if (!int.TryParse(ch.ToString(), out number))
                     throw new FormatException("Format of numbers exception!");
+                else
+                    ticketNumbers.Add(number);
             }
 
-            return result;
-        }
-
-        public static string IsValidLuckyTicketsType(string validatedType)
-        {
-            if (validatedType == "MOSKOW" || validatedType == "PITER")
-            {
-                Console.WriteLine("The type was correct!");
-                return validatedType;
-            }
-            else
-                throw new FormatException("Unsucessful type of lucky tickets!");
-        }
+            return ticketNumbers;
+        }       
     }
 }

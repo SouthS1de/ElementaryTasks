@@ -33,49 +33,34 @@ namespace LuckyTickets
 
         public static void Run(string path)
         {
-            Console.WriteLine("Input type of lucky tickets to count (Moskow / Piter):");//TODO: type in txt
-
-            string typeOfLuckyTickets = Validator.IsValidLuckyTicketsType(Console.ReadLine().ToUpper());
             TicketsCollection myTicketsList = new TicketsCollection();
 
             using (StreamReader sr = new StreamReader(path))
             {
+                LuckyTicketType luckyTicketType = GetLuckyTicketType(sr.ReadLine().ToUpper()); 
                 string buffer = sr.ReadLine();
+
                 while (buffer != null)
                 {
-                    if (Validator.IsValidNumber(buffer))
-                        myTicketsList.Add(new Ticket(buffer.ToCharArray()));
+                    List<int> numbers = Validator.ValidateNumberAndReturnList(buffer);
+
+                    myTicketsList.Add(new Ticket(numbers.ToArray(), luckyTicketType));
 
                     buffer = sr.ReadLine();
                 }
+
+                UI.Display(myTicketsList);
             }
-            Console.Clear();
-            UI.Display(CountOfLuckyTickets(myTicketsList, typeOfLuckyTickets), typeOfLuckyTickets);
         }
 
-        public static int CountOfLuckyTickets(TicketsCollection ticketsList, string type)
+        public static LuckyTicketType GetLuckyTicketType(string userType)
         {
-            int counter = 0;
-
-            if (type == "MOSKOW")
-            {
-                foreach (IMoskow myTicket in ticketsList)
-                {
-                    if (myTicket.IsLucky())
-                        counter++;
-                }
-            }
-
-            if (type == "PITER")
-            {
-                foreach (IPiter myTicket in ticketsList)
-                {
-                    if (myTicket.IsLucky())
-                        counter++;
-                }
-            }
-          
-            return counter;
+            if (userType == "MOSKOW")
+                return LuckyTicketType.Moskow;
+            else if (userType == "PITER")
+                return LuckyTicketType.Piter;
+            else
+                throw new FormatException("Can't understand algorithm type!");
         }
 
         #endregion

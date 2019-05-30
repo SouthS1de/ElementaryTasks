@@ -44,8 +44,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IMoskow.cs" />
-    <Compile Include="IPiter.cs" />
+    <Compile Include="ILuckyAlgorithm.cs" />
+    <Compile Include="LuckyTicketType.cs" />
+    <Compile Include="MoskowTicket.cs" />
+    <Compile Include="PiterTicket.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Ticket.cs" />

@@ -6,55 +6,55 @@ using System.Threading.Tasks;
 
 namespace LuckyTickets
 {
-    public class Ticket: IMoskow, IPiter//TODO: pattern strategy, correct interfaces
+    public class Ticket
     {
-        #region Prop
-        //TODO:indexator, length
-        public char[] Number { get; set; }       
+        #region Prvt field
+
+        private int[] _numbers = null;
+        private ILuckyAlgorithm _algorithm;
+        private const int MAX_LENGTH = 6;
+
+        #endregion
+
+        #region Indexator
+
+        public int this[int index]
+        {
+            get
+            {
+                return _numbers[index];
+            }
+            set
+            {
+                _numbers[index] = value;
+            }
+        }
 
         #endregion
 
         #region Ctor
 
-        public Ticket(char[] number)
+        public Ticket(int[] numbers, LuckyTicketType luckyTicketType)
         {
-            Number = number;
+            _numbers  = numbers;
+            if (luckyTicketType == LuckyTicketType.Moskow)
+                _algorithm = new MoskowTicket();
+            else if (luckyTicketType == LuckyTicketType.Piter)
+                _algorithm = new PiterTicket();
         }
 
         #endregion
 
         #region Methods
 
-        bool IMoskow.IsLucky()
+        public bool IsLucky()
         {
-            int firstSum = 0;
-            int secondSum = 0;
-
-            for (int i = 0; i < Number.Length; i++)
-            {
-                if (i < 3)
-                    firstSum += Convert.ToInt32(Number[i]);
-                else
-                    secondSum += Convert.ToInt32(Number[i]);
-            }
-
-            return firstSum == secondSum;
+            return _algorithm.IsLucky(this);
         }
 
-        bool IPiter.IsLucky()
+        public int GetLength()
         {
-            int evenSum = 0;
-            int oddSum  = 0;
-
-            for (int i = 0; i < Number.Length; i++)
-            {
-                if ((i + 1) % 2 == 0)
-                    evenSum += Convert.ToInt32(Number[i]);
-                else
-                    oddSum += Convert.ToInt32(Number[i]);
-            }
-
-            return evenSum == oddSum;
+            return _numbers.Length;
         }
 
         #endregion

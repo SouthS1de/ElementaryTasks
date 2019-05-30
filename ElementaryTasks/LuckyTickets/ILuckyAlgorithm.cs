@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace LuckyTickets
 {
-    public interface IMoskow//Action, contract with analyz and ticket
+    public interface ILuckyAlgorithm
     {
-        bool IsLucky();
+        bool IsLucky(Ticket ticket);
     }
 }

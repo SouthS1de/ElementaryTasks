@@ -8,10 +8,9 @@ namespace LuckyTickets
 {
     public static class UI
     {
-        public static void Display(int countOfLuckyTickets, string type)
+        public static void Display(TicketsCollection tickets)
         {
-            Console.WriteLine($"Type of lucky tickets: {type}");
-            Console.WriteLine($"Count of lucky tickets: {countOfLuckyTickets}");
+            Console.WriteLine($"Count of lucky tickets: {tickets.CountOfLuckyTickets()}");
         }
     }
 }
