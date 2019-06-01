@@ -33,3 +33,10 @@ D:\DANIL\GitReps\Elementary-Tasks\TrianglesSort\TrianglesSort\obj\Debug\Triangle
 D:\DANIL\GitReps\Elementary-Tasks\TrianglesSort\TrianglesSort\obj\Debug\TrianglesSort.csproj.CoreCompileInputs.cache
 D:\DANIL\GitReps\Elementary-Tasks\TrianglesSort\TrianglesSort\obj\Debug\TrianglesSort.exe
 D:\DANIL\GitReps\Elementary-Tasks\TrianglesSort\TrianglesSort\obj\Debug\TrianglesSort.pdb
+J:\GitHub\ElementaryTasks\ElementaryTasks\TrianglesSort\TrianglesSort\bin\Debug\TrianglesSort.exe.config
+J:\GitHub\ElementaryTasks\ElementaryTasks\TrianglesSort\TrianglesSort\bin\Debug\TrianglesSort.exe
+J:\GitHub\ElementaryTasks\ElementaryTasks\TrianglesSort\TrianglesSort\bin\Debug\TrianglesSort.pdb
+J:\GitHub\ElementaryTasks\ElementaryTasks\TrianglesSort\TrianglesSort\obj\Debug\TrianglesSort.csprojAssemblyReference.cache
+J:\GitHub\ElementaryTasks\ElementaryTasks\TrianglesSort\TrianglesSort\obj\Debug\TrianglesSort.csproj.CoreCompileInputs.cache
+J:\GitHub\ElementaryTasks\ElementaryTasks\TrianglesSort\TrianglesSort\obj\Debug\TrianglesSort.exe
+J:\GitHub\ElementaryTasks\ElementaryTasks\TrianglesSort\TrianglesSort\obj\Debug\TrianglesSort.pdb

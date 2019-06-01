@@ -11,7 +11,7 @@ namespace TrianglesSort
 
         #region Methods
 
-        public static Triangle ValidatingArgsToTriangle(string[] args)//TODO: Validation for triangle
+        public static Triangle ValidatingArgsToTriangle(string[] args)
         {
             if (args.Length == 0)
                 throw new FormatException("Please input arguments!");

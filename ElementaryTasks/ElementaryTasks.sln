@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.28803.452
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnvelopeAnalysis", "EnvelopeAnalysis\EnvelopeAnalysis.csproj", "{504E6E19-CE78-451C-B7A6-74CE2CF05D4B}"
 EndProject
@@ -11,9 +11,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess", "Chess\Chess\Chess.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrianglesSort", "TrianglesSort\TrianglesSort\TrianglesSort.csproj", "{635B4380-12A5-4614-ACDF-D64EE952DD21}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NaturalAndFibonacciNums", "NaturalAndFibonacciNums\NaturalAndFibonacciNums.csproj", "{4DB8A1CD-556F-4E1B-B36B-86A690743B34}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToStringConvertor", "NumberToStringConvertor\NumberToStringConvertor.csproj", "{19A9A4E1-711C-4710-8AAD-DA35286A580D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToString", "NumberToString\NumberToString.csproj", "{C5688904-AD2B-48BF-971D-E0081AFFEDDF}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GlobalInterfaces", "GlobalInterfaces", "{16533810-6C20-4454-9E08-750678659CC4}"
+	ProjectSection(SolutionItems) = preProject
+		IConsoleUI.cs = IConsoleUI.cs
+		IValidator.cs = IValidator.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,14 +41,10 @@ Global
 		{635B4380-12A5-4614-ACDF-D64EE952DD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{635B4380-12A5-4614-ACDF-D64EE952DD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{635B4380-12A5-4614-ACDF-D64EE952DD21}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4DB8A1CD-556F-4E1B-B36B-86A690743B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4DB8A1CD-556F-4E1B-B36B-86A690743B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4DB8A1CD-556F-4E1B-B36B-86A690743B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4DB8A1CD-556F-4E1B-B36B-86A690743B34}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C5688904-AD2B-48BF-971D-E0081AFFEDDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C5688904-AD2B-48BF-971D-E0081AFFEDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C5688904-AD2B-48BF-971D-E0081AFFEDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C5688904-AD2B-48BF-971D-E0081AFFEDDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A9A4E1-711C-4710-8AAD-DA35286A580D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A9A4E1-711C-4710-8AAD-DA35286A580D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A9A4E1-711C-4710-8AAD-DA35286A580D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A9A4E1-711C-4710-8AAD-DA35286A580D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

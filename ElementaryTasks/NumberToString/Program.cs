@@ -11,7 +11,8 @@ namespace NumberToString
             {
                 Console.WriteLine(Convertor.ConvertNumber(num));
             }
-            
+
+            Console.ReadLine();            
         }
     }
 }

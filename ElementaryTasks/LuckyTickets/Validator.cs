@@ -8,12 +8,14 @@ namespace LuckyTickets
 {
     public static class Validator
     {
-        public static List<int> ValidateNumberAndReturnList(string numbers)
+        private const int LENGTH_OF_NUMBERS = 6;
+
+        public static int[] ValidateNumberAndReturnArray(string numbers)
         {
             List<int> ticketNumbers = new List<int>();
             int number = 0;
-            if (!(numbers.Length == 6))//TODO: compare with max lenght
-                throw new ArgumentException("Ticket must have 6 numbers in itself!");
+            if (!(numbers.Length == LENGTH_OF_NUMBERS))
+                throw new ArgumentException("Ticket must have only 6 numbers in itself!");
             foreach (char ch in numbers)
             {
                 if (!int.TryParse(ch.ToString(), out number))
@@ -22,7 +24,7 @@ namespace LuckyTickets
                     ticketNumbers.Add(number);
             }
 
-            return ticketNumbers;
+            return ticketNumbers.ToArray();
         }       
     }
 }

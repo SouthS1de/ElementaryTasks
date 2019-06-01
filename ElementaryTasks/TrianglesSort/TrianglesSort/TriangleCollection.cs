@@ -14,19 +14,6 @@ namespace TrianglesSort
 
         #endregion
 
-        #region Indexator
-
-        // indexator
-        public Triangle this[int index]//TODO: more simple
-        {
-            get
-            {
-                    return _triangleList[index];
-            }
-        }
-
-        #endregion
-
         #region Methods
 
         public void Add(params Triangle[] triangles)

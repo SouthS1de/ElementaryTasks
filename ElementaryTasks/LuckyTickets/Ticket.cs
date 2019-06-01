@@ -12,7 +12,6 @@ namespace LuckyTickets
 
         private int[] _numbers = null;
         private ILuckyAlgorithm _algorithm;
-        private const int MAX_LENGTH = 6;
 
         #endregion
 
