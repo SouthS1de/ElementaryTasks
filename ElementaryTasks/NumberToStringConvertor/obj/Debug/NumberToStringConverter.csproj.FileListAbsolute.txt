@@ -1,0 +1,7 @@
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\NumberToStringConvertor\bin\Debug\NumberToStringConvertor.exe.config
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\NumberToStringConvertor\bin\Debug\NumberToStringConvertor.exe
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\NumberToStringConvertor\bin\Debug\NumberToStringConvertor.pdb
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConverter.csproj.CoreCompileInputs.cache
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConvertor.exe
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConvertor.pdb
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConverter.csprojAssemblyReference.cache

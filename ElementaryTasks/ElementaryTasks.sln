@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess", "Chess\Chess\Chess.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrianglesSort", "TrianglesSort\TrianglesSort\TrianglesSort.csproj", "{635B4380-12A5-4614-ACDF-D64EE952DD21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToStringConvertor", "NumberToStringConvertor\NumberToStringConvertor.csproj", "{19A9A4E1-711C-4710-8AAD-DA35286A580D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToStringConverter", "NumberToStringConvertor\NumberToStringConverter.csproj", "{19A9A4E1-711C-4710-8AAD-DA35286A580D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GlobalInterfaces", "GlobalInterfaces", "{16533810-6C20-4454-9E08-750678659CC4}"
 	ProjectSection(SolutionItems) = preProject

@@ -40,3 +40,12 @@ J:\GitHub\ElementaryTasks\ElementaryTasks\TrianglesSort\TrianglesSort\obj\Debug\
 J:\GitHub\ElementaryTasks\ElementaryTasks\TrianglesSort\TrianglesSort\obj\Debug\TrianglesSort.csproj.CoreCompileInputs.cache
 J:\GitHub\ElementaryTasks\ElementaryTasks\TrianglesSort\TrianglesSort\obj\Debug\TrianglesSort.exe
 J:\GitHub\ElementaryTasks\ElementaryTasks\TrianglesSort\TrianglesSort\obj\Debug\TrianglesSort.pdb
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\TrianglesSort\TrianglesSort\bin\Debug\TrianglesSort.exe.config
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\TrianglesSort\TrianglesSort\bin\Debug\TrianglesSort.exe
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\TrianglesSort\TrianglesSort\bin\Debug\TrianglesSort.pdb
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\TrianglesSort\TrianglesSort\bin\Debug\TrianglesSort.exe.CodeAnalysisLog.xml
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\TrianglesSort\TrianglesSort\bin\Debug\TrianglesSort.exe.lastcodeanalysissucceeded
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\TrianglesSort\TrianglesSort\obj\Debug\TrianglesSort.csprojAssemblyReference.cache
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\TrianglesSort\TrianglesSort\obj\Debug\TrianglesSort.csproj.CoreCompileInputs.cache
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\TrianglesSort\TrianglesSort\obj\Debug\TrianglesSort.exe
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\TrianglesSort\TrianglesSort\obj\Debug\TrianglesSort.pdb

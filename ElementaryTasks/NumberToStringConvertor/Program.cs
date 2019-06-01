@@ -10,8 +10,11 @@ namespace NumberToStringConvertor
     {
         static void Main(string[] args)
         {
-
-
+            Console.WriteLine(args[0]);
+            int number = int.Parse(args[0]);
+            Console.WriteLine("Converted to");
+            Console.WriteLine(Converter.Convert(number));
+            Console.ReadLine();
         }
     }
 }
