@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace NaturalNumbersSequence
 {
+<<<<<<< HEAD
     public static class UserInterface
     {
         #region Methods
@@ -24,5 +25,9 @@ namespace NaturalNumbersSequence
         }
 
         #endregion
+=======
+    class UserInterface
+    {
+>>>>>>> f2b24d3a2d4d2270540f089722a0890b229c7254
     }
 }

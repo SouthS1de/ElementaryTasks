@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace NaturalNumbersSequence
 {
+<<<<<<< HEAD
     public static class Validator
     {
         #region Method
@@ -32,5 +33,9 @@ namespace NaturalNumbersSequence
         }
 
         #endregion
+=======
+    class Validator
+    {
+>>>>>>> f2b24d3a2d4d2270540f089722a0890b229c7254
     }
 }

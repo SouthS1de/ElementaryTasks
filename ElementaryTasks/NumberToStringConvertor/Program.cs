@@ -17,6 +17,7 @@ namespace NumberToStringConvertor
         {
             try
             {
+<<<<<<< HEAD
                 UserInterface.Display(Validator.Validate(args));
             }
             catch (FormatException e)
@@ -30,6 +31,21 @@ namespace NumberToStringConvertor
             catch (ArgumentException e)
             {
                 UserInterface.ShowErrorMessage(e);
+=======
+                UI.Display(Validator.Validate(args));
+            }
+            catch (FormatException e)
+            {
+                UI.ShowErrorMessage(e);
+            }
+            catch (ArgumentNullException e)
+            {
+                UI.ShowErrorMessage(e);
+            }
+            catch (ArgumentException e)
+            {
+                UI.ShowErrorMessage(e);
+>>>>>>> f2b24d3a2d4d2270540f089722a0890b229c7254
             }
         }
     }

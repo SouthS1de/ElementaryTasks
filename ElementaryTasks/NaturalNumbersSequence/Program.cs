@@ -10,6 +10,7 @@ namespace NaturalNumbersSequence
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             Run(args);
         }
 
@@ -33,6 +34,9 @@ namespace NaturalNumbersSequence
             {
                 UserInterface.ShowErrorMessage(e);
             }            
+=======
+
+>>>>>>> f2b24d3a2d4d2270540f089722a0890b229c7254
         }
     }
 }

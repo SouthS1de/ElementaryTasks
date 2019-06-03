@@ -8,11 +8,18 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>NumberToStringConvertor</RootNamespace>
     <AssemblyName>NumberToStringConvertor</AssemblyName>
+<<<<<<< HEAD
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
     <TargetFrameworkProfile />
+=======
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+>>>>>>> f2b24d3a2d4d2270540f089722a0890b229c7254
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -50,7 +57,11 @@
     <Compile Include="Converter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
     <Compile Include="UserInterface.cs" />
+=======
+    <Compile Include="UI.cs" />
+>>>>>>> f2b24d3a2d4d2270540f089722a0890b229c7254
     <Compile Include="Validator.cs" />
   </ItemGroup>
   <ItemGroup>

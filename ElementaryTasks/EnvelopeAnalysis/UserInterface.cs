@@ -15,7 +15,11 @@ namespace EnvelopeAnalysis
             string[] inputMessages = { "Input width of the first envelope:",
                                        "Input height of the first envelope:",
                                        "Input width of the second envelope:",
+<<<<<<< HEAD
                                        "Input height of the second envelope:"};
+=======
+                                       "Input height of the secondenvelope:"};
+>>>>>>> f2b24d3a2d4d2270540f089722a0890b229c7254
             string successMessage = "All sides was validated!";
             bool isSuccess = false;
             const int COUNT_OF_SIDES = 4;
@@ -26,6 +30,7 @@ namespace EnvelopeAnalysis
                 do
                 {
                     Console.WriteLine(inputMessages[i]);
+<<<<<<< HEAD
                     isSuccess = double.TryParse(Console.ReadLine(), out result[i]);
                     Validator.Validate(result[i]);
                     if(!isSuccess)
@@ -35,6 +40,14 @@ namespace EnvelopeAnalysis
 
             Console.WriteLine(successMessage);
             return (result[0], result[1], result[2], result[3]);
+=======
+                    result[i] = Validator.Validate(Console.ReadLine());
+                } while (isSuccess);
+            }
+
+
+            Console.WriteLine(successMessage);
+>>>>>>> f2b24d3a2d4d2270540f089722a0890b229c7254
         }
 
 

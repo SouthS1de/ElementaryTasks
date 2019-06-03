@@ -21,6 +21,9 @@ D:\Danil Kushch\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\Envel
 D:\Danil Kushch\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.csproj.CoreCompileInputs.cache
 D:\Danil Kushch\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.exe
 D:\Danil Kushch\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.pdb
+<<<<<<< HEAD
 D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\bin\Debug\System.ValueTuple.dll
 D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\bin\Debug\System.ValueTuple.xml
 D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.csproj.CopyComplete
+=======
+>>>>>>> f2b24d3a2d4d2270540f089722a0890b229c7254
