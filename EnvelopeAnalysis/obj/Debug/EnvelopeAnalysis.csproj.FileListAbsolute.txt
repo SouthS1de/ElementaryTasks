@@ -1,0 +1,26 @@
+J:\GitHub\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\bin\Debug\EnvelopeAnalysis.exe.config
+J:\GitHub\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\bin\Debug\EnvelopeAnalysis.exe
+J:\GitHub\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\bin\Debug\EnvelopeAnalysis.pdb
+J:\GitHub\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.csprojAssemblyReference.cache
+J:\GitHub\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.csproj.CoreCompileInputs.cache
+J:\GitHub\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.exe
+J:\GitHub\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.pdb
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\bin\Debug\EnvelopeAnalysis.exe.config
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\bin\Debug\EnvelopeAnalysis.exe
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\bin\Debug\EnvelopeAnalysis.pdb
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.csprojAssemblyReference.cache
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.csproj.CoreCompileInputs.cache
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.exe
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.pdb
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\bin\Debug\EnvelopeAnalysis.exe.config
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\bin\Debug\EnvelopeAnalysis.exe
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\bin\Debug\EnvelopeAnalysis.pdb
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\bin\Debug\EnvelopeAnalysis.exe.CodeAnalysisLog.xml
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\bin\Debug\EnvelopeAnalysis.exe.lastcodeanalysissucceeded
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.csprojAssemblyReference.cache
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.csproj.CoreCompileInputs.cache
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.exe
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.pdb
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\bin\Debug\System.ValueTuple.dll
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\bin\Debug\System.ValueTuple.xml
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.csproj.CopyComplete
