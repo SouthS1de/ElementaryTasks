@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TrianglesSort.UI
 {
-    public static class ConsoleUI
+    public static class UserInterface
     {
         #region Private Field
 

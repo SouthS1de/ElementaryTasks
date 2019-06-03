@@ -10,7 +10,7 @@ namespace NaturalNumbersSequence
     {
         #region Prvt field
 
-        private List<int> _sequence = new List<int>;
+        private List<int> _sequence = new List<int>();
 
         #endregion
 

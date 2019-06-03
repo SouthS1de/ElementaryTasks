@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TextParser
 {
-    public static class UI
+    public static class UserInterface
     {
 
     }

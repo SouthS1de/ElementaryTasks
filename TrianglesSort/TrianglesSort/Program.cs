@@ -54,7 +54,7 @@ namespace TrianglesSort
             string[] myArgs = Console.ReadLine().Trim().Split(',');
             Triangle myTriangle = (Triangle)Validator.ValidatingArgsToTriangle(myArgs).Clone();
             myTrianglesList.Add(myTriangle);
-            UI.ConsoleUI.BuildUI(myTrianglesList);
+            UI.UserInterface.BuildUI(myTrianglesList);
         }
 
         #endregion

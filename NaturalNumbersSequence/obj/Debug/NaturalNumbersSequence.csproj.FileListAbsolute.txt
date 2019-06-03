@@ -9,3 +9,6 @@ D:\DANIL\GitReps\ElementaryTasks\NaturalNumbersSequence\obj\Debug\NaturalNumbers
 D:\DANIL\GitReps\ElementaryTasks\NaturalNumbersSequence\obj\Debug\NaturalNumbersSequence.csproj.CoreCompileInputs.cache
 D:\DANIL\GitReps\ElementaryTasks\NaturalNumbersSequence\obj\Debug\NaturalNumbersSequence.exe
 D:\DANIL\GitReps\ElementaryTasks\NaturalNumbersSequence\obj\Debug\NaturalNumbersSequence.pdb
+D:\DANIL\GitReps\ElementaryTasks\NaturalNumbersSequence\bin\Debug\NaturalNumbersSequence.exe.config
+D:\DANIL\GitReps\ElementaryTasks\NaturalNumbersSequence\bin\Debug\NaturalNumbersSequence.exe
+D:\DANIL\GitReps\ElementaryTasks\NaturalNumbersSequence\bin\Debug\NaturalNumbersSequence.pdb
