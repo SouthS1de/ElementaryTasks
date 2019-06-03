@@ -6,5 +6,5 @@ using System.Threading.Tasks;
 
 public interface IValidator
 {
-
+    T Validate<T>(string[] args);
 }

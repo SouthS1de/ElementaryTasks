@@ -10,6 +10,13 @@ namespace EnvelopeAnalysis
     {
         static void Main(string[] args)
         {
+            Run();
+        }
+
+        #region Methods
+
+        public static void Run()
+        {
             string questionMessage = "Wanna compare another envelopes?\n(say 'Y' or 'YES' to do it, or any other key to don't)";
             bool doesCompleteCicle = false;
 
@@ -17,16 +24,11 @@ namespace EnvelopeAnalysis
             {
                 do
                 {
-                    double firstWidth = 0;
-                    double firstHeight = 0;
-                    double secondWidth = 0;
-                    double secondHeight = 0;
-
-                    ReadFromConsole(ref firstWidth, ref firstHeight, ref secondWidth, ref secondHeight);
+                    (double firstWidth, double firstHeight, double secondWidth, double secondHeight)  = ReadFromConsole();
                     Envelope firstEnvelope = new Envelope(firstWidth, firstHeight);
                     Envelope secondEnvelope = new Envelope(secondWidth, secondHeight);
 
-                    UI.Display(firstEnvelope, secondEnvelope);
+                    CompareEnvelops(firstEnvelope, secondEnvelope);
 
                     Console.WriteLine(questionMessage);
                     string userAnswer = Console.ReadLine().ToUpper().Trim();
@@ -41,36 +43,32 @@ namespace EnvelopeAnalysis
             }
             catch (ArgumentException e)
             {
-                Console.WriteLine(e.Message);
-                Console.ReadLine();
+                UserInterface.ShowErrorMessage(e);
             }
             catch (FormatException e)
             {
-                Console.WriteLine(e.Message);
-                Console.ReadLine();
+                UserInterface.ShowErrorMessage(e);
             }
         }
 
-        #region Method
+        public static (double firstWidth, double firstHeight, double secondWidth, double secondHeight) ReadFromConsole()
+        {
+            Console.WriteLine();                           
+        }
 
-        public static void ReadFromConsole(ref double firstWidth, ref double firstHeight, ref double secondWidth, ref double secondHeight)
-        {//TODO: bool, out
-            Console.WriteLine("Input width of the first envelope:");
-            
-            if (Validator.IsValidSide(Console.ReadLine(), out firstWidth))//TODO: do while try parse
-            {
-                Console.WriteLine("Input height of the first envelope:");
-                if (Validator.IsValidSide(Console.ReadLine(), out firstHeight))
-                {
-                    Console.WriteLine("Input width of the second envelope:");
-                    if (Validator.IsValidSide(Console.ReadLine(), out secondWidth))
-                    {
-                        Console.WriteLine("Input height of the secondenvelope:");
-                        if (Validator.IsValidSide(Console.ReadLine(), out secondHeight))
-                            Console.WriteLine("All sides was validated!");
-                    }
-                }
-            }           
+        public static void CompareEnvelops(Envelope firstEnvelope, Envelope secondEnvelope)
+        {
+            bool doesFirstInSecond = firstEnvelope.DoesPutIn(secondEnvelope);
+            bool doesSecondInFirst = secondEnvelope.DoesPutIn(firstEnvelope);//TODO: beauty switch
+
+            if (doesFirstInSecond)
+                UserInterface.Display("Second envelope can be put in the first envelope.");
+
+            if (doesSecondInFirst)
+                UserInterface.Display("First envelope can be put in the second envelope.");
+
+            if (!doesFirstInSecond && !doesSecondInFirst)
+                UserInterface.Display("None of the envelopes can be placed in another.");
         }
 
         #endregion

@@ -5,3 +5,10 @@ D:\Danil Kushch\ElementaryTasks\ElementaryTasks\NumberToStringConvertor\obj\Debu
 D:\Danil Kushch\ElementaryTasks\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConvertor.exe
 D:\Danil Kushch\ElementaryTasks\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConvertor.pdb
 D:\Danil Kushch\ElementaryTasks\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConverter.csprojAssemblyReference.cache
+J:\GitHub\ElementaryTasks\ElementaryTasks\NumberToStringConvertor\bin\Debug\NumberToStringConvertor.exe.config
+J:\GitHub\ElementaryTasks\ElementaryTasks\NumberToStringConvertor\bin\Debug\NumberToStringConvertor.exe
+J:\GitHub\ElementaryTasks\ElementaryTasks\NumberToStringConvertor\bin\Debug\NumberToStringConvertor.pdb
+J:\GitHub\ElementaryTasks\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConverter.csprojAssemblyReference.cache
+J:\GitHub\ElementaryTasks\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConverter.csproj.CoreCompileInputs.cache
+J:\GitHub\ElementaryTasks\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConvertor.exe
+J:\GitHub\ElementaryTasks\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConvertor.pdb

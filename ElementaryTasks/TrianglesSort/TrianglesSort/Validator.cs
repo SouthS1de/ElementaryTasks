@@ -8,7 +8,6 @@ namespace TrianglesSort
 {
     public static class Validator
     {
-
         #region Methods
 
         public static Triangle ValidatingArgsToTriangle(string[] args)

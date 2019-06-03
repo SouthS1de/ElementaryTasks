@@ -9,12 +9,28 @@ namespace NumberToStringConvertor
     class Program
     {
         static void Main(string[] args)
+        {           
+            Run(args);          
+        }
+
+        public static void Run(string[] args)
         {
-            Console.WriteLine(args[0]);
-            int number = int.Parse(args[0]);
-            Console.WriteLine("Converted to");
-            Console.WriteLine(Converter.Convert(number));
-            Console.ReadLine();
+            try
+            {
+                UI.Display(Validator.Validate(args));
+            }
+            catch (FormatException e)
+            {
+                UI.ShowErrorMessage(e);
+            }
+            catch (ArgumentNullException e)
+            {
+                UI.ShowErrorMessage(e);
+            }
+            catch (ArgumentException e)
+            {
+                UI.ShowErrorMessage(e);
+            }
         }
     }
 }

@@ -6,5 +6,6 @@ using System.Threading.Tasks;
 
 public interface IConsoleUI
 {
-
+    void ShowErrorMessage(Exception e);
+    void Display<T>(T programResult);
 }

@@ -9,38 +9,31 @@ namespace Chess
     class Program
     {
         static void Main(string[] args)
-        {
-            string helpMessage = "USE FORMAT: <rows> <colomns>";
-            Console.WriteLine(helpMessage);
-
-            try
-            {
-                Run(args);
-            }
-            catch(ArgumentException e)
-            {
-                Console.WriteLine(e.Message);
-                Console.ReadLine();
-            }
-            catch (FormatException e)
-            {
-                Console.WriteLine(e.Message);
-                Console.WriteLine(helpMessage);
-                Console.ReadLine();
-            }
+        {           
+           Run(args);           
         }
 
         #region Method
 
-        public static void Run(string[] myArgs)
+        public static void Run(string[] args)
         {
-            int myRows = 0;
-            int myColomns = 0;
-            if (Validator.IsValidArgs(myArgs, ref myRows, ref myColomns))
+            Console.WriteLine("USE FORMAT: <rows> <columns>");
+
+            try
             {
-                Board myBoard = new Board(myRows, myColomns);
-                ConsoleUI.BuildUI(myBoard);
-            }            
+                (int rows, int columns) = Validator.Validate(args);               
+                Board myBoard = new Board(rows, columns);
+                UserInteface.Display(myBoard);
+                             
+            }
+            catch (ArgumentException e)
+            {
+                UserInteface.ShowErrorMessage(e);
+            }
+            catch (FormatException e)
+            {
+                UserInteface.ShowErrorMessage(e);
+            }
         }
 
         #endregion

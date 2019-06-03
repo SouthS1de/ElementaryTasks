@@ -57,3 +57,10 @@ D:\Danil Kushch\ElementaryTasks\ElementaryTasks\Chess\Chess\obj\Debug\Chess.cspr
 D:\Danil Kushch\ElementaryTasks\ElementaryTasks\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
 D:\Danil Kushch\ElementaryTasks\ElementaryTasks\Chess\Chess\obj\Debug\Chess.exe
 D:\Danil Kushch\ElementaryTasks\ElementaryTasks\Chess\Chess\obj\Debug\Chess.pdb
+J:\GitHub\ElementaryTasks\ElementaryTasks\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+J:\GitHub\ElementaryTasks\ElementaryTasks\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+J:\GitHub\ElementaryTasks\ElementaryTasks\Chess\Chess\obj\Debug\Chess.exe
+J:\GitHub\ElementaryTasks\ElementaryTasks\Chess\Chess\obj\Debug\Chess.pdb
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\Chess\Chess\bin\Debug\System.ValueTuple.dll
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\Chess\Chess\bin\Debug\System.ValueTuple.xml
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\Chess\Chess\obj\Debug\Chess.csproj.CopyComplete
