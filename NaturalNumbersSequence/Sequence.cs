@@ -10,15 +10,41 @@ namespace NaturalNumbersSequence
     {
         #region Prvt field
 
-        private string 
+        private List<int> _sequence = new List<int>;
 
         #endregion
 
         #region Ctor
 
+        public Sequence(int number)
+        {
+            int sequenceNumber = 1;
+
+            while (sequenceNumber * sequenceNumber <= number)
+            {
+                _sequence.Add(sequenceNumber);
+                sequenceNumber++;
+            }
+        }
+
         #endregion
 
         #region Method
+
+        public string ShowSequence()
+        {
+            string result = string.Empty;
+
+            foreach (int number in _sequence)
+            {
+                result += $"{number},";
+            }
+
+            if (result == string.Empty)
+                result = "Empty sequence!";
+
+            return result.TrimEnd(',');
+        }
 
         #endregion
 

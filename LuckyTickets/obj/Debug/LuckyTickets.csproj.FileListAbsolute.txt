@@ -28,3 +28,13 @@ D:\Danil Kushch\ElementaryTasks\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTick
 D:\Danil Kushch\ElementaryTasks\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.csproj.CoreCompileInputs.cache
 D:\Danil Kushch\ElementaryTasks\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.exe
 D:\Danil Kushch\ElementaryTasks\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.pdb
+D:\DANIL\GitReps\ElementaryTasks\LuckyTickets\bin\Debug\LuckyTickets.exe.config
+D:\DANIL\GitReps\ElementaryTasks\LuckyTickets\bin\Debug\LuckyTickets.exe
+D:\DANIL\GitReps\ElementaryTasks\LuckyTickets\bin\Debug\LuckyTickets.pdb
+D:\DANIL\GitReps\ElementaryTasks\LuckyTickets\bin\Debug\System.ValueTuple.dll
+D:\DANIL\GitReps\ElementaryTasks\LuckyTickets\bin\Debug\System.ValueTuple.xml
+D:\DANIL\GitReps\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.csprojAssemblyReference.cache
+D:\DANIL\GitReps\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.csproj.CoreCompileInputs.cache
+D:\DANIL\GitReps\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.csproj.CopyComplete
+D:\DANIL\GitReps\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.exe
+D:\DANIL\GitReps\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.pdb

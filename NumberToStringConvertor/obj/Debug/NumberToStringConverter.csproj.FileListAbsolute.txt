@@ -12,3 +12,13 @@ J:\GitHub\ElementaryTasks\ElementaryTasks\NumberToStringConvertor\obj\Debug\Numb
 J:\GitHub\ElementaryTasks\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConverter.csproj.CoreCompileInputs.cache
 J:\GitHub\ElementaryTasks\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConvertor.exe
 J:\GitHub\ElementaryTasks\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConvertor.pdb
+D:\DANIL\GitReps\ElementaryTasks\NumberToStringConvertor\bin\Debug\NumberToStringConvertor.exe.config
+D:\DANIL\GitReps\ElementaryTasks\NumberToStringConvertor\bin\Debug\NumberToStringConvertor.exe
+D:\DANIL\GitReps\ElementaryTasks\NumberToStringConvertor\bin\Debug\NumberToStringConvertor.pdb
+D:\DANIL\GitReps\ElementaryTasks\NumberToStringConvertor\bin\Debug\System.ValueTuple.dll
+D:\DANIL\GitReps\ElementaryTasks\NumberToStringConvertor\bin\Debug\System.ValueTuple.xml
+D:\DANIL\GitReps\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConverter.csprojAssemblyReference.cache
+D:\DANIL\GitReps\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConverter.csproj.CoreCompileInputs.cache
+D:\DANIL\GitReps\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConverter.csproj.CopyComplete
+D:\DANIL\GitReps\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConvertor.exe
+D:\DANIL\GitReps\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConvertor.pdb
