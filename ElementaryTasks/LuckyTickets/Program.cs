@@ -42,9 +42,9 @@ namespace LuckyTickets
 
                 while (buffer != null)
                 {
-                    List<int> numbers = Validator.ValidateNumberAndReturnList(buffer);
+                    int[] numbers = Validator.ValidateNumberAndReturnArray(buffer);
 
-                    myTicketsList.Add(new Ticket(numbers.ToArray(), luckyTicketType));
+                    myTicketsList.Add(new Ticket(numbers, luckyTicketType));
 
                     buffer = sr.ReadLine();
                 }

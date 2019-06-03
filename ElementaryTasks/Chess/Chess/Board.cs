@@ -12,21 +12,21 @@ namespace Chess
 
         public Cell[,] CellsTable { get; set; }
         public int Rows     { get; set; }
-        public int Colomns  { get; set; }
+        public int Columns  { get; set; }
 
         #endregion
 
         #region Ctor
 
-        public Board(int rows, int colomns)
+        public Board(int rows, int columns)
         {
             Rows = rows;
-            Colomns  = colomns;
+            Columns  = columns;
 
-            CellsTable = new Cell[Rows, Colomns];
+            CellsTable = new Cell[Rows, Columns];
             for (int i = 0; i < Rows; i++)
             {
-                for (int j = 0; j < Colomns; j++)
+                for (int j = 0; j < Columns; j++)
                 {
                     CellsTable[i, j] = new Cell(i + 1, j + 1);
                 }

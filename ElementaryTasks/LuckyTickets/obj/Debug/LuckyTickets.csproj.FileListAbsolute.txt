@@ -19,3 +19,12 @@ D:\Git\ElementaryTasks\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.cspro
 D:\Git\ElementaryTasks\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.csproj.CoreCompileInputs.cache
 D:\Git\ElementaryTasks\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.exe
 D:\Git\ElementaryTasks\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.pdb
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\LuckyTickets\bin\Debug\LuckyTickets.exe.config
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\LuckyTickets\bin\Debug\LuckyTickets.exe
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\LuckyTickets\bin\Debug\LuckyTickets.pdb
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\LuckyTickets\bin\Debug\LuckyTickets.exe.CodeAnalysisLog.xml
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\LuckyTickets\bin\Debug\LuckyTickets.exe.lastcodeanalysissucceeded
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.csprojAssemblyReference.cache
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.csproj.CoreCompileInputs.cache
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.exe
+D:\Danil Kushch\ElementaryTasks\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.pdb

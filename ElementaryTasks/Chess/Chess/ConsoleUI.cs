@@ -12,7 +12,7 @@ namespace Chess
         {
             for (int i = 0; i < userBoard.Rows; i++)
             {
-                for (int j = 0; j < userBoard.Colomns; j++)
+                for (int j = 0; j < userBoard.Columns; j++)
                 {
                     if (userBoard.CellsTable[i, j].CellColor == ChessBoardColors.Black)
                     {

@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "NumberToString": {
-      "commandName": "Project",
-      "commandLineArgs": "123"
-    }
-  }
-}

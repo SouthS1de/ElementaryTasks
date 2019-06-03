@@ -11,7 +11,7 @@ namespace Chess
         #region Prt Fields
 
         private int _rows;
-        private int _colomns;
+        private int _columns;
 
         #endregion
 
@@ -23,14 +23,14 @@ namespace Chess
             {
                 if (_rows % 2 != 0)
                 {
-                    if (_colomns % 2 == 0)
+                    if (_columns % 2 == 0)
                         return ChessBoardColors.Black;
                     else
                         return ChessBoardColors.White;
                 }
                 else
                 {
-                    if (_colomns % 2 == 0)
+                    if (_columns % 2 == 0)
                         return ChessBoardColors.White;
                     else
                         return ChessBoardColors.Black;
@@ -45,7 +45,7 @@ namespace Chess
         public Cell(int rows, int colomns)
         {
             _rows = rows;
-            _colomns = colomns;
+            _columns = colomns;
         }
 
         #endregion

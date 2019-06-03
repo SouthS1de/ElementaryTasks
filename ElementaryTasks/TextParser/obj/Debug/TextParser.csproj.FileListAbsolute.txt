@@ -1,0 +1,7 @@
+J:\GitHub\ElementaryTasks\ElementaryTasks\TextParser\bin\Debug\TextParser.exe.config
+J:\GitHub\ElementaryTasks\ElementaryTasks\TextParser\bin\Debug\TextParser.exe
+J:\GitHub\ElementaryTasks\ElementaryTasks\TextParser\bin\Debug\TextParser.pdb
+J:\GitHub\ElementaryTasks\ElementaryTasks\TextParser\obj\Debug\TextParser.csprojAssemblyReference.cache
+J:\GitHub\ElementaryTasks\ElementaryTasks\TextParser\obj\Debug\TextParser.csproj.CoreCompileInputs.cache
+J:\GitHub\ElementaryTasks\ElementaryTasks\TextParser\obj\Debug\TextParser.exe
+J:\GitHub\ElementaryTasks\ElementaryTasks\TextParser\obj\Debug\TextParser.pdb

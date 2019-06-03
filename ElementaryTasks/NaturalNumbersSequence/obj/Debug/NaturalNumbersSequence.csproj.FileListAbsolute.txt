@@ -1,0 +1,7 @@
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\NaturalNumbersSequence\bin\Debug\NaturalNumbersSequence.exe.config
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\NaturalNumbersSequence\bin\Debug\NaturalNumbersSequence.exe
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\NaturalNumbersSequence\bin\Debug\NaturalNumbersSequence.pdb
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\NaturalNumbersSequence\obj\Debug\NaturalNumbersSequence.csprojAssemblyReference.cache
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\NaturalNumbersSequence\obj\Debug\NaturalNumbersSequence.csproj.CoreCompileInputs.cache
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\NaturalNumbersSequence\obj\Debug\NaturalNumbersSequence.exe
+D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\NaturalNumbersSequence\obj\Debug\NaturalNumbersSequence.pdb
