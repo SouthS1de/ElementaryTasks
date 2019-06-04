@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaturalNumbersSequence", "N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementaryTasks.Test", "ElementaryTasks.Test\ElementaryTasks.Test.csproj", "{144EF5BD-D344-4A9E-93C8-57576E2E8312}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciRange", "FibonacciRange\FibonacciRange.csproj", "{92534AA4-5658-4B91-AADF-96C4ADC2F220}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{144EF5BD-D344-4A9E-93C8-57576E2E8312}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{144EF5BD-D344-4A9E-93C8-57576E2E8312}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{144EF5BD-D344-4A9E-93C8-57576E2E8312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92534AA4-5658-4B91-AADF-96C4ADC2F220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92534AA4-5658-4B91-AADF-96C4ADC2F220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92534AA4-5658-4B91-AADF-96C4ADC2F220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92534AA4-5658-4B91-AADF-96C4ADC2F220}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
