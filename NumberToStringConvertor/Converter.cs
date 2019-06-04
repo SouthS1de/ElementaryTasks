@@ -20,6 +20,15 @@ namespace NumberToStringConvertor
         #region Prvt Methods
 
         /// <summary>
+        /// Return result of convertation
+        /// </summary>
+        /// <returns>Converted number to string</returns>
+        private static string ReturnResultingString()
+        {
+            return $"{ConvertBillionToString()} {ConvertMillionToString()} {ConvertThousandToString()} {ConvertHundredToString(_hundred)}".TrimStart();
+        }
+
+        /// <summary>
         /// Split number by digits
         /// </summary>
         /// <param name="number">Number to splitting</param>
@@ -199,13 +208,13 @@ namespace NumberToStringConvertor
                 if (number > 0)
                 {
                     SplitNumberByDigits(number);
-                    result = $"{ConvertBillionToString()} {ConvertMillionToString()} {ConvertThousandToString()} {ConvertHundredToString(_hundred)}".TrimStart();
+                    result = ReturnResultingString();
                 }
                 else
                 {
                     number = -number;
                     SplitNumberByDigits(number);
-                    result = $"{ConvertBillionToString()} {ConvertMillionToString()} {ConvertThousandToString()} {ConvertHundredToString(_hundred)}".TrimStart();
+                    result = ReturnResultingString();
                     result = $"minus {result}";
                 }
             }         

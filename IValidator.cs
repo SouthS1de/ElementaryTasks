@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-public interface IValidator
+public static interface IValidator
 {
-    T Validate<T>(string[] args);
+    static T Validate<T>(string[] args);
 }

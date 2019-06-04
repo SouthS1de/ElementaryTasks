@@ -17,7 +17,8 @@ namespace NumberToStringConvertor
         {
             try
             {
-                UserInterface.Display(Validator.Validate(args));
+                int userNumber = Validator.Validate(args);
+                UserInterface.Display(userNumber);
             }
             catch (FormatException e)
             {

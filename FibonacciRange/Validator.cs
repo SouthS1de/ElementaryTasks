@@ -19,10 +19,10 @@ namespace FibonacciRange
             {
                 if (int.TryParse(args[0], out int beginNumber) && int.TryParse(args[1], out int endNumber))
                 {
-                    if (beginNumber >= 0 && endNumber > 0)
+                    if (beginNumber >= 0 && endNumber > 0 && beginNumber < endNumber)
                         return (beginNumber, endNumber);
                     else
-                        throw new ArgumentException("Begin must be bigger than 0 and end must be bigger than 1!");
+                        throw new ArgumentException("Begin must be bigger than 0 and end must be bigger than 1!\nAnd begin must be less than end!");
                 }
                 else
                     throw new FormatException("Unsuccessful format!");

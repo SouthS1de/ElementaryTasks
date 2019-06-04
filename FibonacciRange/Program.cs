@@ -18,8 +18,9 @@ namespace FibonacciRange
             try
             {
                 (int beginOfRange, int endOfRange) = Validator.Validate(args);
+                Range userRange = new Range(beginOfRange, endOfRange);
 
-                UserInterface.Display(/*some answer*/);
+                UserInterface.Display(userRange.ShowRange());
             }
             catch (FormatException e)
             {

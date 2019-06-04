@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.28803.452
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnvelopeAnalysis", "EnvelopeAnalysis\EnvelopeAnalysis.csproj", "{504E6E19-CE78-451C-B7A6-74CE2CF05D4B}"
 EndProject
@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToStringConverter", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GlobalInterfaces", "GlobalInterfaces", "{16533810-6C20-4454-9E08-750678659CC4}"
 	ProjectSection(SolutionItems) = preProject
-		IConsoleUI.cs = IConsoleUI.cs
+		IUserInterface.cs = IUserInterface.cs
 		IValidator.cs = IValidator.cs
 	EndProjectSection
 EndProject

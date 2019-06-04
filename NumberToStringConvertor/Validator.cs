@@ -21,10 +21,16 @@ namespace NumberToStringConvertor
             {
                 if (args.Length == 1)
                 {
-                    if (int.TryParse(args[0], out result))
-                        Console.WriteLine("Your number was successful validated!");
+                    string userNumber = args[0];
+                    if (userNumber[0] != '0' || (userNumber[0] != '-' && userNumber[1] != '0'))
+                    {
+                        if (int.TryParse(userNumber, out result))
+                            Console.WriteLine("Your number was successfully validated!");
+                        else
+                            throw new FormatException("Unseccessful format! (May be more than 10 symbols)");
+                    }
                     else
-                        throw new FormatException("Unseccessful format! (May be more than 10 symbols)");
+                        throw new FormatException("Unseccessful format! (Number couldn't start with 0)");
                 }
                 else
                     throw new ArgumentException("Input only one number and try again!");

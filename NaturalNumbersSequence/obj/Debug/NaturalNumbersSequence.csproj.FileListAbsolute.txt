@@ -12,3 +12,14 @@ D:\DANIL\GitReps\ElementaryTasks\NaturalNumbersSequence\obj\Debug\NaturalNumbers
 D:\DANIL\GitReps\ElementaryTasks\NaturalNumbersSequence\bin\Debug\NaturalNumbersSequence.exe.config
 D:\DANIL\GitReps\ElementaryTasks\NaturalNumbersSequence\bin\Debug\NaturalNumbersSequence.exe
 D:\DANIL\GitReps\ElementaryTasks\NaturalNumbersSequence\bin\Debug\NaturalNumbersSequence.pdb
+J:\GitHub\ElementaryTasks\NaturalNumbersSequence\bin\Debug\NLog.config
+J:\GitHub\ElementaryTasks\NaturalNumbersSequence\bin\Debug\NaturalNumbersSequence.exe.config
+J:\GitHub\ElementaryTasks\NaturalNumbersSequence\bin\Debug\NaturalNumbersSequence.exe
+J:\GitHub\ElementaryTasks\NaturalNumbersSequence\bin\Debug\NaturalNumbersSequence.pdb
+J:\GitHub\ElementaryTasks\NaturalNumbersSequence\bin\Debug\NLog.dll
+J:\GitHub\ElementaryTasks\NaturalNumbersSequence\bin\Debug\NLog.xml
+J:\GitHub\ElementaryTasks\NaturalNumbersSequence\obj\Debug\NaturalNumbersSequence.csprojAssemblyReference.cache
+J:\GitHub\ElementaryTasks\NaturalNumbersSequence\obj\Debug\NaturalNumbersSequence.csproj.CoreCompileInputs.cache
+J:\GitHub\ElementaryTasks\NaturalNumbersSequence\obj\Debug\NaturalNumbersSequence.csproj.CopyComplete
+J:\GitHub\ElementaryTasks\NaturalNumbersSequence\obj\Debug\NaturalNumbersSequence.exe
+J:\GitHub\ElementaryTasks\NaturalNumbersSequence\obj\Debug\NaturalNumbersSequence.pdb

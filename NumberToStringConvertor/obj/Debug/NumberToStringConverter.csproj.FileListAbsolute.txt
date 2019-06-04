@@ -35,3 +35,6 @@ J:\GitHub\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConver
 D:\DANIL\GitReps\ElementaryTasks\NumberToStringConvertor\bin\Debug\NLog.config
 D:\DANIL\GitReps\ElementaryTasks\NumberToStringConvertor\bin\Debug\NLog.dll
 D:\DANIL\GitReps\ElementaryTasks\NumberToStringConvertor\bin\Debug\NLog.xml
+J:\GitHub\ElementaryTasks\NumberToStringConvertor\bin\Debug\NLog.config
+J:\GitHub\ElementaryTasks\NumberToStringConvertor\bin\Debug\NLog.dll
+J:\GitHub\ElementaryTasks\NumberToStringConvertor\bin\Debug\NLog.xml
