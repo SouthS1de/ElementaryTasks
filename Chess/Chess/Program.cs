@@ -23,8 +23,7 @@ namespace Chess
             {
                 (int rows, int columns) = Validator.Validate(args);               
                 Board myBoard = new Board(rows, columns);
-                UserInteface.Display(myBoard);
-                             
+                UserInteface.Display(myBoard);                            
             }
             catch (ArgumentException e)
             {

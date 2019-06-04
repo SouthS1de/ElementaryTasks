@@ -32,3 +32,6 @@ J:\GitHub\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConver
 J:\GitHub\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConverter.csproj.CopyComplete
 J:\GitHub\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConvertor.exe
 J:\GitHub\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConvertor.pdb
+D:\DANIL\GitReps\ElementaryTasks\NumberToStringConvertor\bin\Debug\NLog.config
+D:\DANIL\GitReps\ElementaryTasks\NumberToStringConvertor\bin\Debug\NLog.dll
+D:\DANIL\GitReps\ElementaryTasks\NumberToStringConvertor\bin\Debug\NLog.xml

@@ -84,3 +84,6 @@ J:\GitHub\ElementaryTasks\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.c
 J:\GitHub\ElementaryTasks\Chess\Chess\obj\Debug\Chess.csproj.CopyComplete
 J:\GitHub\ElementaryTasks\Chess\Chess\obj\Debug\Chess.exe
 J:\GitHub\ElementaryTasks\Chess\Chess\obj\Debug\Chess.pdb
+D:\DANIL\GitReps\ElementaryTasks\Chess\Chess\bin\Debug\NLog.config
+D:\DANIL\GitReps\ElementaryTasks\Chess\Chess\bin\Debug\NLog.dll
+D:\DANIL\GitReps\ElementaryTasks\Chess\Chess\bin\Debug\NLog.xml

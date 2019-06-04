@@ -18,3 +18,16 @@ J:\GitHub\ElementaryTasks\TextParser\obj\Debug\TextParser.pdb
 J:\GitHub\ElementaryTasks\TextParser\bin\Debug\NLog.config
 J:\GitHub\ElementaryTasks\TextParser\bin\Debug\NLog.dll
 J:\GitHub\ElementaryTasks\TextParser\bin\Debug\NLog.xml
+D:\DANIL\GitReps\ElementaryTasks\TextParser\bin\Debug\NLog.config
+D:\DANIL\GitReps\ElementaryTasks\TextParser\bin\Debug\TextParser.exe.config
+D:\DANIL\GitReps\ElementaryTasks\TextParser\bin\Debug\TextParser.exe
+D:\DANIL\GitReps\ElementaryTasks\TextParser\bin\Debug\TextParser.pdb
+D:\DANIL\GitReps\ElementaryTasks\TextParser\bin\Debug\NLog.dll
+D:\DANIL\GitReps\ElementaryTasks\TextParser\bin\Debug\System.ValueTuple.dll
+D:\DANIL\GitReps\ElementaryTasks\TextParser\bin\Debug\NLog.xml
+D:\DANIL\GitReps\ElementaryTasks\TextParser\bin\Debug\System.ValueTuple.xml
+D:\DANIL\GitReps\ElementaryTasks\TextParser\obj\Debug\TextParser.csprojAssemblyReference.cache
+D:\DANIL\GitReps\ElementaryTasks\TextParser\obj\Debug\TextParser.csproj.CoreCompileInputs.cache
+D:\DANIL\GitReps\ElementaryTasks\TextParser\obj\Debug\TextParser.csproj.CopyComplete
+D:\DANIL\GitReps\ElementaryTasks\TextParser\obj\Debug\TextParser.exe
+D:\DANIL\GitReps\ElementaryTasks\TextParser\obj\Debug\TextParser.pdb

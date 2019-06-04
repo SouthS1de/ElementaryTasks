@@ -19,6 +19,10 @@ namespace NumberToStringConvertor
 
         #region Prvt Methods
 
+        /// <summary>
+        /// Split number by digits
+        /// </summary>
+        /// <param name="number">Number to splitting</param>
         private static void SplitNumberByDigits(int number)
         {
             _billion = (number - (number % 1000000000))/ 1000000000;
@@ -179,6 +183,11 @@ namespace NumberToStringConvertor
 
         #region Pub Method
 
+        /// <summary>
+        /// Convert number to string
+        /// </summary>
+        /// <param name="number">Number to convert</param>
+        /// <returns>String after convertation</returns>
         public static string Convert(int number)
         {
             string result = string.Empty;
