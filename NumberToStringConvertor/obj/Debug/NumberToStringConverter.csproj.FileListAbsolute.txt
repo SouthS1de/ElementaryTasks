@@ -22,3 +22,13 @@ D:\DANIL\GitReps\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStrin
 D:\DANIL\GitReps\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConverter.csproj.CopyComplete
 D:\DANIL\GitReps\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConvertor.exe
 D:\DANIL\GitReps\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConvertor.pdb
+J:\GitHub\ElementaryTasks\NumberToStringConvertor\bin\Debug\NumberToStringConvertor.exe.config
+J:\GitHub\ElementaryTasks\NumberToStringConvertor\bin\Debug\NumberToStringConvertor.exe
+J:\GitHub\ElementaryTasks\NumberToStringConvertor\bin\Debug\NumberToStringConvertor.pdb
+J:\GitHub\ElementaryTasks\NumberToStringConvertor\bin\Debug\System.ValueTuple.dll
+J:\GitHub\ElementaryTasks\NumberToStringConvertor\bin\Debug\System.ValueTuple.xml
+J:\GitHub\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConverter.csprojAssemblyReference.cache
+J:\GitHub\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConverter.csproj.CoreCompileInputs.cache
+J:\GitHub\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConverter.csproj.CopyComplete
+J:\GitHub\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConvertor.exe
+J:\GitHub\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConvertor.pdb

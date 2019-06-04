@@ -49,7 +49,7 @@ namespace LuckyTickets
                     buffer = sr.ReadLine();
                 }
 
-                UI.Display(myTicketsList);
+                UserIterface.Display(myTicketsList);
             }
         }
 

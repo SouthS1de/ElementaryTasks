@@ -17,19 +17,19 @@ namespace NumberToStringConvertor
         {
             try
             {
-                UI.Display(Validator.Validate(args));
+                UserInterface.Display(Validator.Validate(args));
             }
             catch (FormatException e)
             {
-                UI.ShowErrorMessage(e);
+                UserInterface.ShowErrorMessage(e);
             }
             catch (ArgumentNullException e)
             {
-                UI.ShowErrorMessage(e);
+                UserInterface.ShowErrorMessage(e);
             }
             catch (ArgumentException e)
             {
-                UI.ShowErrorMessage(e);
+                UserInterface.ShowErrorMessage(e);
             }
         }
     }

@@ -5,3 +5,16 @@ J:\GitHub\ElementaryTasks\ElementaryTasks\TextParser\obj\Debug\TextParser.csproj
 J:\GitHub\ElementaryTasks\ElementaryTasks\TextParser\obj\Debug\TextParser.csproj.CoreCompileInputs.cache
 J:\GitHub\ElementaryTasks\ElementaryTasks\TextParser\obj\Debug\TextParser.exe
 J:\GitHub\ElementaryTasks\ElementaryTasks\TextParser\obj\Debug\TextParser.pdb
+J:\GitHub\ElementaryTasks\TextParser\bin\Debug\TextParser.exe.config
+J:\GitHub\ElementaryTasks\TextParser\bin\Debug\TextParser.exe
+J:\GitHub\ElementaryTasks\TextParser\bin\Debug\TextParser.pdb
+J:\GitHub\ElementaryTasks\TextParser\bin\Debug\System.ValueTuple.dll
+J:\GitHub\ElementaryTasks\TextParser\bin\Debug\System.ValueTuple.xml
+J:\GitHub\ElementaryTasks\TextParser\obj\Debug\TextParser.csprojAssemblyReference.cache
+J:\GitHub\ElementaryTasks\TextParser\obj\Debug\TextParser.csproj.CoreCompileInputs.cache
+J:\GitHub\ElementaryTasks\TextParser\obj\Debug\TextParser.csproj.CopyComplete
+J:\GitHub\ElementaryTasks\TextParser\obj\Debug\TextParser.exe
+J:\GitHub\ElementaryTasks\TextParser\obj\Debug\TextParser.pdb
+J:\GitHub\ElementaryTasks\TextParser\bin\Debug\NLog.config
+J:\GitHub\ElementaryTasks\TextParser\bin\Debug\NLog.dll
+J:\GitHub\ElementaryTasks\TextParser\bin\Debug\NLog.xml

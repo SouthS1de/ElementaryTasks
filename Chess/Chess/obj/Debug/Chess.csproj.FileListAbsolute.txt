@@ -74,3 +74,13 @@ D:\DANIL\GitReps\ElementaryTasks\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileI
 D:\DANIL\GitReps\ElementaryTasks\Chess\Chess\obj\Debug\Chess.csproj.CopyComplete
 D:\DANIL\GitReps\ElementaryTasks\Chess\Chess\obj\Debug\Chess.exe
 D:\DANIL\GitReps\ElementaryTasks\Chess\Chess\obj\Debug\Chess.pdb
+J:\GitHub\ElementaryTasks\Chess\Chess\bin\Debug\Chess.exe.config
+J:\GitHub\ElementaryTasks\Chess\Chess\bin\Debug\Chess.exe
+J:\GitHub\ElementaryTasks\Chess\Chess\bin\Debug\Chess.pdb
+J:\GitHub\ElementaryTasks\Chess\Chess\bin\Debug\System.ValueTuple.dll
+J:\GitHub\ElementaryTasks\Chess\Chess\bin\Debug\System.ValueTuple.xml
+J:\GitHub\ElementaryTasks\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+J:\GitHub\ElementaryTasks\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+J:\GitHub\ElementaryTasks\Chess\Chess\obj\Debug\Chess.csproj.CopyComplete
+J:\GitHub\ElementaryTasks\Chess\Chess\obj\Debug\Chess.exe
+J:\GitHub\ElementaryTasks\Chess\Chess\obj\Debug\Chess.pdb

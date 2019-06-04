@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks; 
+using System.Threading.Tasks;
+using System.IO;
 
 namespace TextParser
 {
@@ -10,13 +11,55 @@ namespace TextParser
     {
         static void Main(string[] args)
         {
-            string text = "Hi, my name is Danya.";
-            string pattern = "name";
+            try
+            {
+                Run(args);
+            }
+            catch (FormatException e)
+            {
+                UserInterface.ShowErrorMessage(e);
+            }
+            catch (ArgumentNullException e)
+            {
+                UserInterface.ShowErrorMessage(e);
+            }
+            catch (ArgumentException e)
+            {
+                UserInterface.ShowErrorMessage(e);
+            }
+            catch(IOException e)
+            {
+                UserInterface.ShowErrorMessage(e);
+            }
 
-            BoyerMoore algorithm = new BoyerMoore(pattern);          
-
-            Console.WriteLine(algorithm.Search(text));
-            Console.ReadLine();
         }
+
+        #region Methods
+
+        public static void Run(string[] args)
+        {
+            Mode parserMode = Validator.Validate(args);
+            Parser parser = new Parser(parserMode);
+            parser.DoAlgorithm(args);
+            UserInterface.Display(parser.Mode);
+        }
+
+
+       
+
+        //public static void SaveToFile(string path, List<string> text)
+        //{
+        //    using (StreamWriter sw = new StreamWriter(path))
+        //    {
+        //        foreach (string line in text)
+        //        {
+        //            sw.WriteLine(line);
+        //        }
+        //    }
+
+        //    Console.WriteLine("File was successfully saved!");
+        //}
+
+        #endregion
     }
 }
