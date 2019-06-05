@@ -219,7 +219,7 @@ namespace NumberToStringConvertor
                 }
             }         
             
-            return result;
+            return result.TrimEnd();
         }
 
         #endregion

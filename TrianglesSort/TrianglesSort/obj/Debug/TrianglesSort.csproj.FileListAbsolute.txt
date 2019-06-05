@@ -59,3 +59,6 @@ D:\DANIL\GitReps\ElementaryTasks\TrianglesSort\TrianglesSort\obj\Debug\Triangles
 D:\DANIL\GitReps\ElementaryTasks\TrianglesSort\TrianglesSort\obj\Debug\TrianglesSort.csproj.CopyComplete
 D:\DANIL\GitReps\ElementaryTasks\TrianglesSort\TrianglesSort\obj\Debug\TrianglesSort.exe
 D:\DANIL\GitReps\ElementaryTasks\TrianglesSort\TrianglesSort\obj\Debug\TrianglesSort.pdb
+D:\DANIL\GitReps\ElementaryTasks\TrianglesSort\TrianglesSort\bin\Debug\NLog.config
+D:\DANIL\GitReps\ElementaryTasks\TrianglesSort\TrianglesSort\bin\Debug\NLog.dll
+D:\DANIL\GitReps\ElementaryTasks\TrianglesSort\TrianglesSort\bin\Debug\NLog.xml

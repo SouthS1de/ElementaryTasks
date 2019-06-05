@@ -38,3 +38,6 @@ D:\DANIL\GitReps\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.csproj.Core
 D:\DANIL\GitReps\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.csproj.CopyComplete
 D:\DANIL\GitReps\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.exe
 D:\DANIL\GitReps\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.pdb
+D:\DANIL\GitReps\ElementaryTasks\LuckyTickets\bin\Debug\NLog.config
+D:\DANIL\GitReps\ElementaryTasks\LuckyTickets\bin\Debug\NLog.dll
+D:\DANIL\GitReps\ElementaryTasks\LuckyTickets\bin\Debug\NLog.xml

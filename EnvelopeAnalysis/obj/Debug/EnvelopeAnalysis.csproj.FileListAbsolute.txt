@@ -24,3 +24,16 @@ D:\Danil Kushch\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\Envel
 D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\bin\Debug\System.ValueTuple.dll
 D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\bin\Debug\System.ValueTuple.xml
 D:\DANIL\GitReps\ElementaryTasks\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.csproj.CopyComplete
+D:\DANIL\GitReps\ElementaryTasks\EnvelopeAnalysis\bin\Debug\NLog.config
+D:\DANIL\GitReps\ElementaryTasks\EnvelopeAnalysis\bin\Debug\EnvelopeAnalysis.exe.config
+D:\DANIL\GitReps\ElementaryTasks\EnvelopeAnalysis\bin\Debug\EnvelopeAnalysis.exe
+D:\DANIL\GitReps\ElementaryTasks\EnvelopeAnalysis\bin\Debug\EnvelopeAnalysis.pdb
+D:\DANIL\GitReps\ElementaryTasks\EnvelopeAnalysis\bin\Debug\NLog.dll
+D:\DANIL\GitReps\ElementaryTasks\EnvelopeAnalysis\bin\Debug\System.ValueTuple.dll
+D:\DANIL\GitReps\ElementaryTasks\EnvelopeAnalysis\bin\Debug\NLog.xml
+D:\DANIL\GitReps\ElementaryTasks\EnvelopeAnalysis\bin\Debug\System.ValueTuple.xml
+D:\DANIL\GitReps\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.csprojAssemblyReference.cache
+D:\DANIL\GitReps\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.csproj.CoreCompileInputs.cache
+D:\DANIL\GitReps\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.csproj.CopyComplete
+D:\DANIL\GitReps\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.exe
+D:\DANIL\GitReps\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.pdb
