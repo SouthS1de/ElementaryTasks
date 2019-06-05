@@ -17,23 +17,23 @@ namespace Chess
 
         #region Prop
 
-        public ChessBoardColors CellColor
+        public ChessBoardColor CellColor
         {
             get
             {
                 if (_rows % 2 != 0)
                 {
                     if (_columns % 2 == 0)
-                        return ChessBoardColors.Black;
+                        return ChessBoardColor.Black;
                     else
-                        return ChessBoardColors.White;
+                        return ChessBoardColor.White;
                 }
                 else
                 {
                     if (_columns % 2 == 0)
-                        return ChessBoardColors.White;
+                        return ChessBoardColor.White;
                     else
-                        return ChessBoardColors.Black;
+                        return ChessBoardColor.Black;
                 }
             }
         }

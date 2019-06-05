@@ -41,3 +41,16 @@ D:\DANIL\GitReps\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.pdb
 D:\DANIL\GitReps\ElementaryTasks\LuckyTickets\bin\Debug\NLog.config
 D:\DANIL\GitReps\ElementaryTasks\LuckyTickets\bin\Debug\NLog.dll
 D:\DANIL\GitReps\ElementaryTasks\LuckyTickets\bin\Debug\NLog.xml
+J:\GitHub\ElementaryTasks\LuckyTickets\bin\Debug\NLog.config
+J:\GitHub\ElementaryTasks\LuckyTickets\bin\Debug\LuckyTickets.exe.config
+J:\GitHub\ElementaryTasks\LuckyTickets\bin\Debug\LuckyTickets.exe
+J:\GitHub\ElementaryTasks\LuckyTickets\bin\Debug\LuckyTickets.pdb
+J:\GitHub\ElementaryTasks\LuckyTickets\bin\Debug\NLog.dll
+J:\GitHub\ElementaryTasks\LuckyTickets\bin\Debug\System.ValueTuple.dll
+J:\GitHub\ElementaryTasks\LuckyTickets\bin\Debug\NLog.xml
+J:\GitHub\ElementaryTasks\LuckyTickets\bin\Debug\System.ValueTuple.xml
+J:\GitHub\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.csprojAssemblyReference.cache
+J:\GitHub\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.csproj.CoreCompileInputs.cache
+J:\GitHub\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.csproj.CopyComplete
+J:\GitHub\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.exe
+J:\GitHub\ElementaryTasks\LuckyTickets\obj\Debug\LuckyTickets.pdb

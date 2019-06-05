@@ -23,15 +23,19 @@ namespace Chess
             {
                 (int rows, int columns) = Validator.Validate(args);               
                 Board myBoard = new Board(rows, columns);
-                UserInteface.Display(myBoard);                            
+                UserInterface.Display(myBoard);                            
+            }
+            catch (ArgumentNullException e)
+            {
+                UserInterface.ShowErrorMessage(e);
             }
             catch (ArgumentException e)
             {
-                UserInteface.ShowErrorMessage(e);
+                UserInterface.ShowErrorMessage(e);
             }
             catch (FormatException e)
             {
-                UserInteface.ShowErrorMessage(e);
+                UserInterface.ShowErrorMessage(e);
             }
         }
 

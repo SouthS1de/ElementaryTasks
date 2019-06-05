@@ -37,3 +37,16 @@ D:\DANIL\GitReps\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.csp
 D:\DANIL\GitReps\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.csproj.CopyComplete
 D:\DANIL\GitReps\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.exe
 D:\DANIL\GitReps\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.pdb
+J:\GitHub\ElementaryTasks\EnvelopeAnalysis\bin\Debug\NLog.config
+J:\GitHub\ElementaryTasks\EnvelopeAnalysis\bin\Debug\EnvelopeAnalysis.exe.config
+J:\GitHub\ElementaryTasks\EnvelopeAnalysis\bin\Debug\EnvelopeAnalysis.exe
+J:\GitHub\ElementaryTasks\EnvelopeAnalysis\bin\Debug\EnvelopeAnalysis.pdb
+J:\GitHub\ElementaryTasks\EnvelopeAnalysis\bin\Debug\NLog.dll
+J:\GitHub\ElementaryTasks\EnvelopeAnalysis\bin\Debug\System.ValueTuple.dll
+J:\GitHub\ElementaryTasks\EnvelopeAnalysis\bin\Debug\NLog.xml
+J:\GitHub\ElementaryTasks\EnvelopeAnalysis\bin\Debug\System.ValueTuple.xml
+J:\GitHub\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.csprojAssemblyReference.cache
+J:\GitHub\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.csproj.CoreCompileInputs.cache
+J:\GitHub\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.csproj.CopyComplete
+J:\GitHub\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.exe
+J:\GitHub\ElementaryTasks\EnvelopeAnalysis\obj\Debug\EnvelopeAnalysis.pdb

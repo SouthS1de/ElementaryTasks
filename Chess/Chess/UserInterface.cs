@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Chess
 {
-    public static class UserInteface
+    public static class UserInterface
     {
         public static void Display(Board userBoard)//TODO: Pattern builder
         {
@@ -14,14 +14,14 @@ namespace Chess
             {
                 for (int j = 0; j < userBoard.Columns; j++)
                 {
-                    if (userBoard.CellsTable[i, j].CellColor == ChessBoardColors.Black)
+                    if (userBoard.CellsTable[i, j].CellColor == ChessBoardColor.Black)
                     {
                         Console.BackgroundColor = ConsoleColor.Black;
                         Console.Write(" ");
                     }
                     else
                     {
-                        if (userBoard.CellsTable[i, j].CellColor == ChessBoardColors.White)
+                        if (userBoard.CellsTable[i, j].CellColor == ChessBoardColor.White)
                         {
                             Console.BackgroundColor = ConsoleColor.White;
                             Console.Write(" ");

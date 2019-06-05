@@ -22,15 +22,16 @@ namespace NumberToStringConvertor
                 if (args.Length == 1)
                 {
                     string userNumber = args[0];
-                    if (userNumber[0] != '0' || (userNumber[0] != '-' && userNumber[1] != '0'))
+                    if ((userNumber[0] == '0' && userNumber.Length != 1) || (userNumber[0] == '-' && userNumber[1] == '0' && userNumber.Length != 2))
+                        throw new FormatException("Unseccessful format! (Number couldn't start with 0)");                        
+                    else
                     {
                         if (int.TryParse(userNumber, out result))
                             Console.WriteLine("Your number was successfully validated!");
                         else
                             throw new FormatException("Unseccessful format! (May be more than 10 symbols)");
                     }
-                    else
-                        throw new FormatException("Unseccessful format! (Number couldn't start with 0)");
+                        
                 }
                 else
                     throw new ArgumentException("Input only one number and try again!");

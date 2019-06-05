@@ -87,3 +87,6 @@ J:\GitHub\ElementaryTasks\Chess\Chess\obj\Debug\Chess.pdb
 D:\DANIL\GitReps\ElementaryTasks\Chess\Chess\bin\Debug\NLog.config
 D:\DANIL\GitReps\ElementaryTasks\Chess\Chess\bin\Debug\NLog.dll
 D:\DANIL\GitReps\ElementaryTasks\Chess\Chess\bin\Debug\NLog.xml
+J:\GitHub\ElementaryTasks\Chess\Chess\bin\Debug\NLog.config
+J:\GitHub\ElementaryTasks\Chess\Chess\bin\Debug\NLog.dll
+J:\GitHub\ElementaryTasks\Chess\Chess\bin\Debug\NLog.xml

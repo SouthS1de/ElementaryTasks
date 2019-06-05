@@ -17,7 +17,7 @@ namespace Chess
             int columns = 0;
 
             if (args.Length == 0)
-                throw new ArgumentException("Please input rows and colomns!");
+                throw new ArgumentNullException("Please input rows and colomns!");
             if (args.Length != 2)
                 throw new FormatException("Unsuccessful format. You must write only two arguments!");
             else
@@ -30,10 +30,10 @@ namespace Chess
                         return (rows, columns);
                     }
                     else
-                        throw new ArgumentException($"Rows({rows}) or Colomns({columns}) parametr out of range\n(Must be bigger than 0, little than {MAX_VALUE})");
+                        throw new ArgumentException($"Rows({rows}) or Colomns({columns}) parametr out of range\n(Must be bigger than 0 and less than {MAX_VALUE})");
                 }
                 else
-                    throw new ArgumentException("Can't parse rows or colomns");
+                    throw new FormatException("Can't parse rows or colomns");
             }
         }
     }

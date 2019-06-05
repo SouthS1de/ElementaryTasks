@@ -62,3 +62,16 @@ D:\DANIL\GitReps\ElementaryTasks\TrianglesSort\TrianglesSort\obj\Debug\Triangles
 D:\DANIL\GitReps\ElementaryTasks\TrianglesSort\TrianglesSort\bin\Debug\NLog.config
 D:\DANIL\GitReps\ElementaryTasks\TrianglesSort\TrianglesSort\bin\Debug\NLog.dll
 D:\DANIL\GitReps\ElementaryTasks\TrianglesSort\TrianglesSort\bin\Debug\NLog.xml
+J:\GitHub\ElementaryTasks\TrianglesSort\TrianglesSort\bin\Debug\NLog.config
+J:\GitHub\ElementaryTasks\TrianglesSort\TrianglesSort\bin\Debug\TrianglesSort.exe.config
+J:\GitHub\ElementaryTasks\TrianglesSort\TrianglesSort\bin\Debug\TrianglesSort.exe
+J:\GitHub\ElementaryTasks\TrianglesSort\TrianglesSort\bin\Debug\TrianglesSort.pdb
+J:\GitHub\ElementaryTasks\TrianglesSort\TrianglesSort\bin\Debug\NLog.dll
+J:\GitHub\ElementaryTasks\TrianglesSort\TrianglesSort\bin\Debug\System.ValueTuple.dll
+J:\GitHub\ElementaryTasks\TrianglesSort\TrianglesSort\bin\Debug\NLog.xml
+J:\GitHub\ElementaryTasks\TrianglesSort\TrianglesSort\bin\Debug\System.ValueTuple.xml
+J:\GitHub\ElementaryTasks\TrianglesSort\TrianglesSort\obj\Debug\TrianglesSort.csprojAssemblyReference.cache
+J:\GitHub\ElementaryTasks\TrianglesSort\TrianglesSort\obj\Debug\TrianglesSort.csproj.CoreCompileInputs.cache
+J:\GitHub\ElementaryTasks\TrianglesSort\TrianglesSort\obj\Debug\TrianglesSort.csproj.CopyComplete
+J:\GitHub\ElementaryTasks\TrianglesSort\TrianglesSort\obj\Debug\TrianglesSort.exe
+J:\GitHub\ElementaryTasks\TrianglesSort\TrianglesSort\obj\Debug\TrianglesSort.pdb
