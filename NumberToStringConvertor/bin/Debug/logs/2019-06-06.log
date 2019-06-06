@@ -12,3 +12,42 @@
 2019-06-06 17:15:05.9788 | INFO | NumberToStringConvertor.UserInterface | 123 was converted to one hundred twenty-three
 2019-06-06 17:15:50.3094 | TRACE | NumberToStringConvertor.Converter | Number was equal zero.
 2019-06-06 17:15:50.3334 | INFO | NumberToStringConvertor.UserInterface | 0 was converted to zero
+2019-06-06 18:22:54.9536 | INFO | NumberToStringConvertor.Program | User input System.String[].
+2019-06-06 18:22:54.9966 | TRACE | NumberToStringConvertor.Converter | Number was equal zero.
+2019-06-06 18:22:55.0076 | INFO | NumberToStringConvertor.UserInterface | 0 was converted to zero
+2019-06-06 18:48:12.7758 | INFO | NumberToStringConvertor.Program | User input 0.
+2019-06-06 18:48:12.8248 | TRACE | NumberToStringConvertor.Converter | Number was equal zero.
+2019-06-06 18:48:12.8498 | INFO | NumberToStringConvertor.UserInterface | 0 was converted to zero
+2019-06-06 18:52:29.9895 | INFO | NumberToStringConvertor.Program | User input 0.
+2019-06-06 18:52:30.0375 | TRACE | NumberToStringConvertor.Converter | Number was equal zero.
+2019-06-06 18:52:30.0515 | INFO | NumberToStringConvertor.UserInterface | 0 was converted to zero
+2019-06-06 18:52:43.5651 | INFO | NumberToStringConvertor.Program | User input 100.
+2019-06-06 18:52:43.6091 | TRACE | NumberToStringConvertor.Converter | The number 100 was splitted.
+2019-06-06 18:52:43.6091 | TRACE | NumberToStringConvertor.Converter | The billion digit was equal zero.
+2019-06-06 18:52:43.6261 | TRACE | NumberToStringConvertor.Converter | The million digit was equal zero.
+2019-06-06 18:52:43.6261 | TRACE | NumberToStringConvertor.Converter | The thousand digit was equal zero.
+2019-06-06 18:52:43.6391 | TRACE | NumberToStringConvertor.Converter | The hundred digit was equal 0
+2019-06-06 18:52:43.6391 | TRACE | NumberToStringConvertor.Converter | Unit digit(1) was converted.
+2019-06-06 18:52:43.6391 | TRACE | NumberToStringConvertor.Converter | Unit digit(0) was converted.
+2019-06-06 18:52:43.6601 | TRACE | NumberToStringConvertor.Converter | The ten digit(0) was converted.
+2019-06-06 18:52:43.6601 | TRACE | NumberToStringConvertor.Converter | Number 100 was converted.
+2019-06-06 18:52:43.6811 | INFO | NumberToStringConvertor.UserInterface | 100 was converted to one hundred
+2019-06-06 18:52:50.0970 | INFO | NumberToStringConvertor.Program | User input 1245400.
+2019-06-06 18:52:50.1410 | TRACE | NumberToStringConvertor.Converter | The number 1245400 was splitted.
+2019-06-06 18:52:50.1410 | TRACE | NumberToStringConvertor.Converter | The billion digit was equal zero.
+2019-06-06 18:52:50.1560 | TRACE | NumberToStringConvertor.Converter | The million digit(1) was converted.
+2019-06-06 18:52:50.1560 | TRACE | NumberToStringConvertor.Converter | The hundred digit(400) was converted
+2019-06-06 18:52:50.1700 | TRACE | NumberToStringConvertor.Converter | Unit digit(1) was converted.
+2019-06-06 18:52:50.1700 | TRACE | NumberToStringConvertor.Converter | The ten digit(1) was converted.
+2019-06-06 18:52:50.1700 | TRACE | NumberToStringConvertor.Converter | The thousand digit(245) was converted.
+2019-06-06 18:52:50.1900 | TRACE | NumberToStringConvertor.Converter | The hundred digit was equal 0
+2019-06-06 18:52:50.1900 | TRACE | NumberToStringConvertor.Converter | Unit digit(2) was converted.
+2019-06-06 18:52:50.2050 | TRACE | NumberToStringConvertor.Converter | Unit digit(5) was converted.
+2019-06-06 18:52:50.2050 | TRACE | NumberToStringConvertor.Converter | The ten digit(45) was converted.
+2019-06-06 18:52:50.2210 | TRACE | NumberToStringConvertor.Converter | The ten digit(45) was converted.
+2019-06-06 18:52:50.2210 | TRACE | NumberToStringConvertor.Converter | The hundred digit was equal 0
+2019-06-06 18:52:50.2370 | TRACE | NumberToStringConvertor.Converter | Unit digit(4) was converted.
+2019-06-06 18:52:50.2370 | TRACE | NumberToStringConvertor.Converter | Unit digit(0) was converted.
+2019-06-06 18:52:50.2550 | TRACE | NumberToStringConvertor.Converter | The ten digit(0) was converted.
+2019-06-06 18:52:50.2640 | TRACE | NumberToStringConvertor.Converter | Number 1245400 was converted.
+2019-06-06 18:52:50.2640 | INFO | NumberToStringConvertor.UserInterface | 1245400 was converted to one million two hundred fourty-five thousand four hundred

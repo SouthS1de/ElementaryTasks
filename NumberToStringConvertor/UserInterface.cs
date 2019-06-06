@@ -10,6 +10,7 @@ namespace NumberToStringConvertor
     public static class UserInterface
     {
         private static Logger _log = LogManager.GetCurrentClassLogger();
+
         public static void ShowErrorMessage(Exception e)
         {
             _log.Info(e.Message);

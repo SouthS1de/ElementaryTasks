@@ -40,7 +40,7 @@ namespace NumberToStringConvertor
             _million = ((number % 1000000000) - (number % 1000000)) / 1000000;
             _thousand = ((number % 1000000) - (number % 1000)) / 1000;
             _hundred = number % 1000;
-            _log.Trace("The number was splitted.");
+            _log.Trace($"The number {number} was splitted.");
         }
 
         private static string ConvertBillionToString()
@@ -53,7 +53,7 @@ namespace NumberToStringConvertor
             }
             else
             {
-                _log.Trace("The billion digit was converted.");
+                _log.Trace($"The billion digit({_billion}) was converted.");
 
                 return $"{ConvertHundredToString(_billion)} billion";
             }
@@ -69,7 +69,7 @@ namespace NumberToStringConvertor
             }
             else
             {
-                _log.Trace("The million digit was converted.");
+                _log.Trace($"The million digit({_million}) was converted.");
 
                 return $"{ConvertHundredToString(_million)} million";
             }
@@ -85,7 +85,7 @@ namespace NumberToStringConvertor
             }
             else
             {
-                _log.Trace("The thousand digit was converted.");
+                _log.Trace($"The thousand digit({_thousand}) was converted.");
 
                 return $"{ConvertHundredToString(_thousand)} thousand";
             }
@@ -128,7 +128,7 @@ namespace NumberToStringConvertor
                     result = "nine";
                     break;                   
             }
-            _log.Trace("Unit digin was converted.");
+            _log.Trace($"Unit digit({number}) was converted.");
 
             return result;
         }
@@ -163,7 +163,7 @@ namespace NumberToStringConvertor
             }
             else
                 result = ConvertUnitToString(number);
-            _log.Trace("Ten digin was converted.");
+            _log.Trace($"The ten digit({number}) was converted.");
 
             return result;
         }
@@ -202,7 +202,7 @@ namespace NumberToStringConvertor
                     result = $"ninety-{ConvertUnitToString(unit)}";
                     break;
             }
-            _log.Trace("Ten digit(more than twenty) was converted.");
+            _log.Trace($"The ten digit({number}) was converted.");
 
             return result.TrimEnd('-');
         }
@@ -214,13 +214,13 @@ namespace NumberToStringConvertor
 
             if (hundred != 0)
             {
-                _log.Trace("The hundred digit was equal 0");
+                _log.Trace("The hundred digit was equal 0.");
 
                 return $"{ConvertUnitToString(hundred)} hundred {ConvertTenToString(ten)}";
             }
             else
             {
-                _log.Trace("The hundred digit was converted");
+                _log.Trace($"The hundred digit({_hundred}) was converted.");
 
                 return $"{ConvertTenToString(ten)}";
             }
