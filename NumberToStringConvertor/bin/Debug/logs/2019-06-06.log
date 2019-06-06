@@ -1,0 +1,14 @@
+2019-06-06 17:14:35.3056 | INFO | NumberToStringConvertor.UserInterface | Unseccessful format! (Number couldn't start with 0)
+2019-06-06 17:15:05.9368 | TRACE | NumberToStringConvertor.Converter | The number was splitted.
+2019-06-06 17:15:05.9618 | TRACE | NumberToStringConvertor.Converter | The billion digit was equal zero.
+2019-06-06 17:15:05.9618 | TRACE | NumberToStringConvertor.Converter | The million digit was equal zero.
+2019-06-06 17:15:05.9618 | TRACE | NumberToStringConvertor.Converter | The thousand digit was equal zero.
+2019-06-06 17:15:05.9618 | TRACE | NumberToStringConvertor.Converter | The hundred digit was equal 0
+2019-06-06 17:15:05.9618 | TRACE | NumberToStringConvertor.Converter | Unit digin was converted.
+2019-06-06 17:15:05.9788 | TRACE | NumberToStringConvertor.Converter | Unit digin was converted.
+2019-06-06 17:15:05.9788 | TRACE | NumberToStringConvertor.Converter | Ten digit(more than twenty) was converted.
+2019-06-06 17:15:05.9788 | TRACE | NumberToStringConvertor.Converter | Ten digin was converted.
+2019-06-06 17:15:05.9788 | TRACE | NumberToStringConvertor.Converter | Number 123 was converted.
+2019-06-06 17:15:05.9788 | INFO | NumberToStringConvertor.UserInterface | 123 was converted to one hundred twenty-three
+2019-06-06 17:15:50.3094 | TRACE | NumberToStringConvertor.Converter | Number was equal zero.
+2019-06-06 17:15:50.3334 | INFO | NumberToStringConvertor.UserInterface | 0 was converted to zero
