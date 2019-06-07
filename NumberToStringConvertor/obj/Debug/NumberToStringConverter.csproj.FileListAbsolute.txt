@@ -38,3 +38,16 @@ D:\DANIL\GitReps\ElementaryTasks\NumberToStringConvertor\bin\Debug\NLog.xml
 J:\GitHub\ElementaryTasks\NumberToStringConvertor\bin\Debug\NLog.config
 J:\GitHub\ElementaryTasks\NumberToStringConvertor\bin\Debug\NLog.dll
 J:\GitHub\ElementaryTasks\NumberToStringConvertor\bin\Debug\NLog.xml
+D:\Dp-166NET\DanilsGit\ElementaryTasks\NumberToStringConvertor\bin\Debug\NLog.config
+D:\Dp-166NET\DanilsGit\ElementaryTasks\NumberToStringConvertor\bin\Debug\NumberToStringConvertor.exe.config
+D:\Dp-166NET\DanilsGit\ElementaryTasks\NumberToStringConvertor\bin\Debug\NumberToStringConvertor.exe
+D:\Dp-166NET\DanilsGit\ElementaryTasks\NumberToStringConvertor\bin\Debug\NumberToStringConvertor.pdb
+D:\Dp-166NET\DanilsGit\ElementaryTasks\NumberToStringConvertor\bin\Debug\NLog.dll
+D:\Dp-166NET\DanilsGit\ElementaryTasks\NumberToStringConvertor\bin\Debug\System.ValueTuple.dll
+D:\Dp-166NET\DanilsGit\ElementaryTasks\NumberToStringConvertor\bin\Debug\NLog.xml
+D:\Dp-166NET\DanilsGit\ElementaryTasks\NumberToStringConvertor\bin\Debug\System.ValueTuple.xml
+D:\Dp-166NET\DanilsGit\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConverter.csprojAssemblyReference.cache
+D:\Dp-166NET\DanilsGit\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConverter.csproj.CoreCompileInputs.cache
+D:\Dp-166NET\DanilsGit\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConverter.csproj.CopyComplete
+D:\Dp-166NET\DanilsGit\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConvertor.exe
+D:\Dp-166NET\DanilsGit\ElementaryTasks\NumberToStringConvertor\obj\Debug\NumberToStringConvertor.pdb

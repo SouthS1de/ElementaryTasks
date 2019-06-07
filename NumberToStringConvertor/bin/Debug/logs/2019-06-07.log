@@ -1,0 +1,31 @@
+2019-06-07 10:53:30.7230 | INFO | NumberToStringConvertor.Program | User input 1245400.
+2019-06-07 10:53:30.7520 | TRACE | NumberToStringConvertor.Converter | The number 1245400 was splitted.
+2019-06-07 10:53:30.7520 | TRACE | NumberToStringConvertor.Converter | The billion digit was equal zero.
+2019-06-07 10:53:30.7690 | TRACE | NumberToStringConvertor.Converter | The million digit(1) was converted.
+2019-06-07 10:53:30.7690 | TRACE | NumberToStringConvertor.Converter | The hundred digit(400) was converted.
+2019-06-07 10:53:30.7820 | TRACE | NumberToStringConvertor.Converter | Unit digit(1) was converted.
+2019-06-07 10:53:30.7820 | TRACE | NumberToStringConvertor.Converter | The ten digit(1) was converted.
+2019-06-07 10:53:30.7820 | TRACE | NumberToStringConvertor.Converter | The thousand digit(245) was converted.
+2019-06-07 10:53:30.8020 | TRACE | NumberToStringConvertor.Converter | The hundred digit was equal 0.
+2019-06-07 10:53:30.8020 | TRACE | NumberToStringConvertor.Converter | Unit digit(2) was converted.
+2019-06-07 10:53:30.8200 | TRACE | NumberToStringConvertor.Converter | Unit digit(5) was converted.
+2019-06-07 10:53:30.8400 | TRACE | NumberToStringConvertor.Converter | The ten digit(45) was converted.
+2019-06-07 10:53:30.8470 | TRACE | NumberToStringConvertor.Converter | The ten digit(45) was converted.
+2019-06-07 10:53:30.8470 | TRACE | NumberToStringConvertor.Converter | The hundred digit was equal 0.
+2019-06-07 10:53:30.8470 | TRACE | NumberToStringConvertor.Converter | Unit digit(4) was converted.
+2019-06-07 10:53:30.8630 | TRACE | NumberToStringConvertor.Converter | Unit digit(0) was converted.
+2019-06-07 10:53:30.8630 | TRACE | NumberToStringConvertor.Converter | The ten digit(0) was converted.
+2019-06-07 10:53:30.8760 | TRACE | NumberToStringConvertor.Converter | Number 1245400 was converted.
+2019-06-07 10:53:30.8760 | INFO | NumberToStringConvertor.UserInterface | 1245400 was converted to one million two hundred fourty-five thousand four hundred
+2019-06-07 10:53:41.4322 | INFO | NumberToStringConvertor.Program | User input 188.
+2019-06-07 10:53:41.4582 | TRACE | NumberToStringConvertor.Converter | The number 188 was splitted.
+2019-06-07 10:53:41.4582 | TRACE | NumberToStringConvertor.Converter | The billion digit was equal zero.
+2019-06-07 10:53:41.4582 | TRACE | NumberToStringConvertor.Converter | The million digit was equal zero.
+2019-06-07 10:53:41.4732 | TRACE | NumberToStringConvertor.Converter | The thousand digit was equal zero.
+2019-06-07 10:53:41.4732 | TRACE | NumberToStringConvertor.Converter | The hundred digit was equal 0.
+2019-06-07 10:53:41.4732 | TRACE | NumberToStringConvertor.Converter | Unit digit(1) was converted.
+2019-06-07 10:53:41.4732 | TRACE | NumberToStringConvertor.Converter | Unit digit(8) was converted.
+2019-06-07 10:53:41.4892 | TRACE | NumberToStringConvertor.Converter | The ten digit(88) was converted.
+2019-06-07 10:53:41.4892 | TRACE | NumberToStringConvertor.Converter | The ten digit(88) was converted.
+2019-06-07 10:53:41.4892 | TRACE | NumberToStringConvertor.Converter | Number 188 was converted.
+2019-06-07 10:53:41.4892 | INFO | NumberToStringConvertor.UserInterface | 188 was converted to one hundred eighty-eight

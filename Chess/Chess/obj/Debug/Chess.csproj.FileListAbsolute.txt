@@ -90,3 +90,16 @@ D:\DANIL\GitReps\ElementaryTasks\Chess\Chess\bin\Debug\NLog.xml
 J:\GitHub\ElementaryTasks\Chess\Chess\bin\Debug\NLog.config
 J:\GitHub\ElementaryTasks\Chess\Chess\bin\Debug\NLog.dll
 J:\GitHub\ElementaryTasks\Chess\Chess\bin\Debug\NLog.xml
+D:\Dp-166NET\DanilsGit\ElementaryTasks\Chess\Chess\bin\Debug\NLog.config
+D:\Dp-166NET\DanilsGit\ElementaryTasks\Chess\Chess\bin\Debug\Chess.exe.config
+D:\Dp-166NET\DanilsGit\ElementaryTasks\Chess\Chess\bin\Debug\Chess.exe
+D:\Dp-166NET\DanilsGit\ElementaryTasks\Chess\Chess\bin\Debug\Chess.pdb
+D:\Dp-166NET\DanilsGit\ElementaryTasks\Chess\Chess\bin\Debug\NLog.dll
+D:\Dp-166NET\DanilsGit\ElementaryTasks\Chess\Chess\bin\Debug\System.ValueTuple.dll
+D:\Dp-166NET\DanilsGit\ElementaryTasks\Chess\Chess\bin\Debug\NLog.xml
+D:\Dp-166NET\DanilsGit\ElementaryTasks\Chess\Chess\bin\Debug\System.ValueTuple.xml
+D:\Dp-166NET\DanilsGit\ElementaryTasks\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+D:\Dp-166NET\DanilsGit\ElementaryTasks\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+D:\Dp-166NET\DanilsGit\ElementaryTasks\Chess\Chess\obj\Debug\Chess.csproj.CopyComplete
+D:\Dp-166NET\DanilsGit\ElementaryTasks\Chess\Chess\obj\Debug\Chess.exe
+D:\Dp-166NET\DanilsGit\ElementaryTasks\Chess\Chess\obj\Debug\Chess.pdb

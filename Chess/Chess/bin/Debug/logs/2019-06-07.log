@@ -1,0 +1,9 @@
+2019-06-07 10:53:51.5105 | INFO | Chess.Program | User input 8 8.
+2019-06-07 10:53:51.5355 | TRACE | Chess.Board | The board was building. Board with 64 cells.
+2019-06-07 10:53:51.5495 | INFO | Chess.UserInterface | The board was drawing.
+2019-06-07 10:54:14.4143 | INFO | Chess.Program | User input 1 8.
+2019-06-07 10:54:14.4393 | TRACE | Chess.Board | The board was building. Board with 8 cells.
+2019-06-07 10:54:14.4393 | INFO | Chess.UserInterface | The board was drawing.
+2019-06-07 10:54:28.0892 | INFO | Chess.Program | User input 8 1.
+2019-06-07 10:54:28.1173 | TRACE | Chess.Board | The board was building. Board with 8 cells.
+2019-06-07 10:54:28.1173 | INFO | Chess.UserInterface | The board was drawing.
